@@ -1,0 +1,760 @@
+{"tags": [1, 2, 0, 0, 3, 4], "tokens": ["2", "start", "restaurants", "with", "inside", "dining"]}
+{"tags": [0], "tokens": ["34"]}
+{"tags": [1, 2, 0, 5, 6, 6], "tokens": ["5", "star", "resturants", "in", "my", "town"]}
+{"tags": [0, 7, 8, 0, 9, 0], "tokens": ["98", "hong", "kong", "restaurant", "reasonable", "prices"]}
+{"tags": [0, 0, 0, 0, 0, 10, 11, 11, 11, 11, 7, 8], "tokens": ["a", "great", "lunch", "spot", "but", "open", "till", "2", "a", "m", "passims", "kitchen"]}
+{"tags": [0, 0, 0, 0, 12, 13, 13, 13], "tokens": ["a", "place", "that", "serves", "soft", "serve", "ice", "cream"]}
+{"tags": [0, 0, 0, 0, 1, 3, 4], "tokens": ["a", "restaurant", "that", "is", "good", "for", "groups"]}
+{"tags": [0, 12, 0, 0, 0, 0], "tokens": ["a", "salad", "would", "make", "my", "day"]}
+{"tags": [0, 14, 0, 0, 0, 0], "tokens": ["a", "smoothie", "would", "hit", "the", "spot"]}
+{"tags": [0, 12, 0, 0, 0], "tokens": ["a", "steak", "would", "be", "nice"]}
+{"tags": [0, 12, 0, 5, 6, 6], "tokens": ["a", "sub", "place", "near", "independence", "boulevard"]}
+{"tags": [0, 0, 0, 0, 0, 9, 1, 0, 1, 14, 0, 7, 8, 8], "tokens": ["about", "how", "much", "is", "a", "midpriced", "bottle", "of", "good", "wine", "at", "davidos", "italian", "palace"]}
+{"tags": [0, 0, 0, 0, 0, 9, 0, 0, 0, 7, 8, 8, 0, 10, 9, 15], "tokens": ["about", "how", "much", "will", "it", "cost", "to", "eat", "at", "johns", "pizza", "cafe", "for", "dinner", "per", "person"]}
+{"tags": [0, 0, 0, 5, 7, 8], "tokens": ["adress", "of", "the", "nearest", "cracker", "barrel"]}
+{"tags": [10, 11, 11], "tokens": ["after", "hour", "dining"]}
+{"tags": [0, 0, 0, 0, 0, 12, 13, 13, 0, 0, 0, 0], "tokens": ["all", "i", "want", "is", "a", "bagel", "and", "coffee", "can", "you", "direct", "me"]}
+{"tags": [0, 0, 0, 0, 12], "tokens": ["all", "i", "want", "is", "salmon"]}
+{"tags": [0, 0, 0, 0, 0, 12, 13, 0, 0, 0, 5, 6], "tokens": ["all", "i", "want", "is", "some", "fresh", "fruits", "where", "is", "the", "nearest", "supermarket"]}
+{"tags": [0, 0, 0, 0, 0, 1, 12, 0, 0, 0, 0, 0, 0], "tokens": ["all", "i", "want", "is", "some", "good", "chili", "can", "you", "help", "me", "find", "that"]}
+{"tags": [0, 0, 0, 0, 0, 0, 0, 14, 16, 0, 0, 5, 6, 6], "tokens": ["along", "my", "route", "tell", "me", "the", "next", "steak", "house", "that", "is", "within", "a", "mile"]}
+{"tags": [0, 0, 3, 14, 0], "tokens": ["alot", "of", "parking", "indian", "food"]}
+{"tags": [0, 0, 1, 12, 0, 0, 0, 0, 0, 7, 8], "tokens": ["although", "a", "good", "burger", "would", "be", "good", "time", "for", "burger", "king"]}
+{"tags": [0, 0, 0, 0, 0, 0, 0, 0, 7, 10], "tokens": ["am", "i", "ablle", "to", "get", "a", "reservation", "at", "mcdills", "tonight"]}
+{"tags": [14, 0, 0, 1], "tokens": ["american", "style", "restaurants", "reviews"]}
+{"tags": [3, 4], "tokens": ["anniversary", "dinner"]}
+{"tags": [0, 3, 4, 14, 0], "tokens": ["any", "50s", "style", "diners", "around"]}
+{"tags": [0, 14, 0, 0, 0, 10, 11, 11, 11, 11], "tokens": ["any", "bars", "around", "that", "are", "open", "before", "11", "a", "m"]}
+{"tags": [0, 7, 0, 0, 0, 5, 6], "tokens": ["any", "beanery", "restaurants", "at", "the", "north", "end"]}
+{"tags": [0, 14, 0, 0, 5], "tokens": ["any", "beanery", "restaurants", "on", "westborough"]}
+{"tags": [0, 12, 0, 0, 0, 3, 0, 9, 0], "tokens": ["any", "beef", "cuisine", "restaurants", "with", "brewpub", "and", "great", "prices"]}
+{"tags": [0, 3, 4, 0, 5, 6, 6], "tokens": ["any", "buffet", "style", "restaurant", "in", "my", "area"]}
+{"tags": [0, 3, 4, 0, 3, 4], "tokens": ["any", "business", "eateries", "with", "great", "portions"]}
+{"tags": [0, 1, 0, 5, 6], "tokens": ["any", "busy", "restaurants", "around", "here"]}
+{"tags": [0, 14, 16, 10, 11, 11, 11], "tokens": ["any", "cali", "eateries", "open", "at", "11", "am"]}
+{"tags": [0, 0, 0, 0, 0, 0, 3, 0, 0, 3, 4, 0, 0, 0, 1, 2, 2, 2], "tokens": ["any", "chance", "i", "can", "get", "a", "reservation", "at", "that", "fine", "dining", "place", "thats", "the", "top", "rated", "on", "tripadvisor"]}
+{"tags": [0, 9, 0, 0, 5], "tokens": ["any", "cheap", "places", "on", "middleboro"]}
+{"tags": [0, 9, 0, 10, 11, 11, 11, 11], "tokens": ["any", "cheap", "restaurants", "open", "before", "8", "a", "m"]}
+{"tags": [0, 9, 14, 0], "tokens": ["any", "cheap", "spanish", "places"]}
+{"tags": [0, 1, 2, 0, 5, 6], "tokens": ["any", "crowd", "pleasing", "restaurants", "around", "here"]}
+{"tags": [0, 14, 0, 3, 4], "tokens": ["any", "deli", "with", "catering", "services"]}
+{"tags": [0, 14, 0, 5], "tokens": ["any", "family", "restaurant", "nearby"]}
+{"tags": [0, 14, 16, 5], "tokens": ["any", "fast", "food", "nearby"]}
+{"tags": [0, 14, 16, 0, 10, 11, 11], "tokens": ["any", "fast", "food", "places", "open", "this", "late"]}
+{"tags": [0, 14, 16, 0, 5], "tokens": ["any", "fast", "food", "restaurants", "nearby"]}
+{"tags": [0, 14, 5], "tokens": ["any", "fastfood", "nearby"]}
+{"tags": [0, 0, 14, 16, 0, 0], "tokens": ["any", "food", "low", "fat", "food", "resteraunt"]}
+{"tags": [0, 0, 5, 6, 6], "tokens": ["any", "food", "within", "5", "miles"]}
+{"tags": [0, 14, 0, 14, 0, 0, 3, 4, 0], "tokens": ["any", "german", "cuisine", "diners", "around", "with", "no", "smoking", "permitted"]}
+{"tags": [0, 1, 14, 16, 0, 5], "tokens": ["any", "good", "ice", "cream", "places", "around"]}
+{"tags": [0, 1, 14, 16, 5, 0], "tokens": ["any", "good", "steak", "houses", "around", "me"]}
+{"tags": [0, 7, 5], "tokens": ["any", "ihops", "around"]}
+{"tags": [0, 7, 12, 5, 6], "tokens": ["any", "inernational", "brownies", "around", "here"]}
+{"tags": [0, 3, 4, 0, 5, 6], "tokens": ["any", "kid", "friendly", "restaurants", "around", "here"]}
+{"tags": [0, 10, 11, 14, 0, 12], "tokens": ["any", "late", "night", "diners", "featuring", "sake"]}
+{"tags": [0, 3, 4, 4, 0, 5, 6, 6], "tokens": ["any", "nice", "dine", "in", "restaurants", "next", "to", "here"]}
+{"tags": [0, 9, 0, 0, 5, 6, 0, 1, 2], "tokens": ["any", "nicely", "priced", "places", "in", "harvard", "with", "nice", "toppings"]}
+{"tags": [0, 0, 0, 7, 0, 0, 3, 4, 10, 11, 11, 11, 11], "tokens": ["any", "of", "the", "landrys", "restaurants", "offer", "carry", "out", "until", "at", "least", "9", "pm"]}
+{"tags": [0, 0, 14, 0, 0, 10, 11, 11], "tokens": ["any", "pho", "hoa", "restaurants", "with", "late", "night", "dining"]}
+{"tags": [0, 0, 5, 0, 0, 12, 0, 0, 10, 0], "tokens": ["any", "place", "around", "that", "serves", "sandwichs", "on", "their", "lunch", "menu"]}
+{"tags": [0, 0, 0, 0, 0, 14, 0, 0], "tokens": ["any", "place", "around", "that", "serves", "vegan", "food", "options"]}
+{"tags": [0, 0, 1, 0, 0, 5], "tokens": ["any", "place", "good", "to", "eat", "nearby"]}
+{"tags": [0, 0, 0, 0, 5, 0, 0, 3, 4], "tokens": ["any", "place", "to", "eat", "nearby", "that", "takes", "travelers", "checks"]}
+{"tags": [0, 0, 5, 6, 6, 0, 12], "tokens": ["any", "places", "along", "this", "road", "serve", "chips"]}
+{"tags": [0, 0, 0, 5, 6, 0, 0, 0, 0, 12, 13, 0, 3, 4, 4], "tokens": ["any", "places", "in", "harvard", "square", "where", "i", "can", "get", "potato", "pie", "and", "see", "some", "celebrities"]}
+{"tags": [0, 9, 0, 14, 0, 0, 3, 4], "tokens": ["any", "reasonable", "priced", "chowder", "restaurants", "offering", "group", "dining"]}
+{"tags": [0, 0, 5, 6, 0, 0, 14, 0, 0, 0, 9], "tokens": ["any", "restaurant", "close", "by", "that", "serves", "vegan", "dish", "and", "its", "affordable"]}
+{"tags": [0, 0, 0, 10, 11, 11], "tokens": ["any", "restaurant", "that", "opens", "24", "hours"]}
+{"tags": [0, 0, 0, 0, 14, 0, 5, 6], "tokens": ["any", "restaurants", "around", "featuring", "brunch", "on", "hovendon", "avenue"]}
+{"tags": [0, 0, 5, 6, 6, 6, 6, 0, 3, 4], "tokens": ["any", "restaurants", "around", "four", "miles", "from", "here", "with", "private", "rooms"]}
+{"tags": [0, 0, 0, 5, 6, 0, 9, 0], "tokens": ["any", "restaurants", "around", "government", "center", "with", "great", "prices"]}
+{"tags": [0, 0, 5, 6, 0, 3, 0, 3, 4], "tokens": ["any", "restaurants", "around", "sacramento", "with", "fireplace", "and", "great", "atmosphere"]}
+{"tags": [0, 0, 5, 0, 0, 14, 0], "tokens": ["any", "restaurants", "around", "that", "serve", "organic", "foods"]}
+{"tags": [0, 0, 5, 6], "tokens": ["any", "restaurants", "take", "checks"]}
+{"tags": [0, 0, 0, 0, 12, 13, 0, 0, 0, 3, 5], "tokens": ["any", "restaurants", "that", "serve", "french", "fries", "and", "have", "a", "patio", "nearby"]}
+{"tags": [0, 14, 0, 0, 0, 3, 4, 5], "tokens": ["any", "southwestern", "cuisine", "restaurants", "featuring", "romantic", "dining", "nearby"]}
+{"tags": [0, 14, 0, 0, 5, 6, 10, 11, 11, 11], "tokens": ["any", "spanish", "restaurants", "in", "jamaica", "plain", "open", "in", "the", "morning"]}
+{"tags": [0, 1, 0, 0, 0, 0], "tokens": ["any", "suggestions", "on", "what", "to", "eat"]}
+{"tags": [0, 14, 0, 0, 3, 4], "tokens": ["any", "tapas", "places", "with", "drink", "specials"]}
+{"tags": [0, 14, 0, 0], "tokens": ["any", "unique", "foods", "here"]}
+{"tags": [0, 0, 12, 13, 5, 6], "tokens": ["anybody", "serve", "boardwalk", "fries", "around", "here"]}
+{"tags": [0, 0, 0, 0, 0, 0, 12, 13, 0, 5, 6, 6, 6, 6, 0], "tokens": ["anyplace", "i", "can", "get", "some", "good", "pita", "bread", "thats", "not", "more", "than", "4", "miles", "out"]}
+{"tags": [0, 1, 0, 0, 5, 6, 6], "tokens": ["anything", "good", "to", "eat", "within", "10", "miles"]}
+{"tags": [0, 0, 3, 4], "tokens": ["anything", "with", "group", "seating"]}
+{"tags": [0, 0, 0, 0, 0, 0, 0, 9, 12, 13], "tokens": ["anywhere", "i", "can", "get", "a", "tasty", "and", "cheap", "noodle", "dish"]}
+{"tags": [0, 0, 3, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0], "tokens": ["anywhere", "thats", "not", "crowded", "before", "the", "game", "where", "i", "can", "get", "a", "bite"]}
+{"tags": [7, 8, 0, 5, 6], "tokens": ["apple", "bs", "resturant", "in", "town"]}
+{"tags": [14, 0, 5, 6], "tokens": ["arabic", "cuisine", "near", "me"]}
+{"tags": [0, 0, 14, 0, 10, 11, 11], "tokens": ["are", "any", "doughnut", "shops", "open", "right", "now"]}
+{"tags": [0, 0, 14, 0, 5, 6, 6, 0, 0], "tokens": ["are", "any", "vegetarian", "restaurants", "within", "5", "blocks", "of", "here"]}
+{"tags": [0, 3, 4, 0, 7, 8], "tokens": ["are", "children", "allowed", "in", "mi", "piacis"]}
+{"tags": [0, 7, 8, 8, 0, 7, 8, 8, 0], "tokens": ["are", "rivertown", "coffee", "co", "or", "aromas", "coffee", "bar", "expensive"]}
+{"tags": [0, 7, 0, 3, 4], "tokens": ["are", "sebastians", "restaurants", "portions", "big"]}
+{"tags": [0, 0, 0, 14, 0, 0, 0, 5, 6, 6, 6, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0], "tokens": ["are", "than", "any", "sushi", "restaurants", "on", "the", "north", "side", "of", "town", "and", "i", "need", "to", "know", "their", "phone", "number", "and", "directions"]}
+{"tags": [0, 0, 0, 14, 0, 0, 5, 6], "tokens": ["are", "the", "any", "vegetarian", "restaurants", "in", "cleveland", "park"]}
+{"tags": [0, 0, 0, 0, 0, 0], "tokens": ["are", "the", "proportions", "big", "or", "small"]}
+{"tags": [0, 0, 0, 0, 0, 7, 0, 5], "tokens": ["are", "the", "reviews", "good", "for", "chichis", "in", "gona"]}
+{"tags": [0, 0, 0, 0, 0, 7, 8, 8], "tokens": ["are", "the", "reviews", "good", "for", "donovans", "rooftop", "grill"]}
+{"tags": [0, 0, 3, 4], "tokens": ["are", "the", "servers", "attractive"]}
+{"tags": [0, 0, 0, 5, 0, 0, 0, 0, 5], "tokens": ["are", "their", "any", "places", "to", "eat", "near", "my", "location"]}
+{"tags": [0, 0, 9, 0, 0, 5, 10, 11, 11, 11], "tokens": ["are", "there", "affordable", "restaurants", "in", "kingston", "open", "until", "11", "pm"]}
+{"tags": [0, 0, 0, 10, 11, 14, 0, 5], "tokens": ["are", "there", "any", "24", "hour", "diners", "around", "here"]}
+{"tags": [0, 0, 0, 10, 11, 14, 5, 6], "tokens": ["are", "there", "any", "24", "hour", "diners", "near", "by"]}
+{"tags": [0, 0, 0, 10, 11, 0, 5], "tokens": ["are", "there", "any", "24", "hour", "restaurants", "nearby"]}
+{"tags": [0, 0, 0, 1, 2, 14, 0, 5, 6, 6], "tokens": ["are", "there", "any", "4", "star", "seafood", "restaurants", "within", "10", "miles"]}
+{"tags": [0, 0, 0, 1, 2, 0, 5], "tokens": ["are", "there", "any", "5", "star", "restaurants", "near"]}
+{"tags": [0, 0, 0, 9, 14, 0, 0, 5, 6, 6, 6, 6], "tokens": ["are", "there", "any", "affordable", "meat", "serving", "venues", "within", "five", "miles", "of", "here"]}
+{"tags": [0, 0, 0, 9, 0, 0, 0, 0], "tokens": ["are", "there", "any", "affordable", "steak", "places", "in", "littleton"]}
+{"tags": [0, 0, 0, 3, 4, 4, 4, 14, 3, 0, 5], "tokens": ["are", "there", "any", "all", "you", "can", "eat", "sushi", "buffets", "in", "westbury"]}
+{"tags": [0, 0, 0, 14, 0, 5, 6], "tokens": ["are", "there", "any", "american", "restaurants", "in", "area"]}
+{"tags": [0, 0, 0, 14, 0, 0, 0, 0, 3, 4], "tokens": ["are", "there", "any", "american", "restaurants", "that", "are", "also", "carry", "out"]}
+{"tags": [0, 0, 0, 7, 5, 6, 6], "tokens": ["are", "there", "any", "arbys", "in", "this", "area"]}
+{"tags": [0, 0, 0, 7, 5, 6, 6, 6, 6, 6], "tokens": ["are", "there", "any", "arbys", "with", "in", "ten", "miles", "of", "here"]}
+{"tags": [0, 0, 0, 14, 0, 5, 6], "tokens": ["are", "there", "any", "asian", "restaurants", "close", "by"]}
+{"tags": [0, 0, 0, 14, 16, 0, 0, 0, 12, 5, 6], "tokens": ["are", "there", "any", "authentic", "greek", "restaurants", "that", "serve", "gyros", "around", "here"]}
+{"tags": [0, 0, 0, 14, 16, 0, 5, 6, 6, 0, 0, 0, 14, 0], "tokens": ["are", "there", "any", "authentic", "vietnamese", "restaurants", "in", "the", "area", "that", "specialize", "in", "regional", "dishes"]}
+{"tags": [0, 0, 0, 7, 8, 8, 0, 10, 11, 11, 11, 0, 0, 3, 4, 4, 4], "tokens": ["are", "there", "any", "bob", "evans", "restaurants", "around", "this", "late", "at", "night", "that", "can", "wait", "on", "us", "quickly"]}
+{"tags": [0, 0, 0, 10, 0, 0, 0, 12, 5, 6, 6], "tokens": ["are", "there", "any", "breakfast", "places", "that", "serve", "steak", "near", "elm", "park"]}
+{"tags": [0, 0, 0, 14, 5, 6, 6], "tokens": ["are", "there", "any", "brewery", "in", "the", "area"]}
+{"tags": [0, 0, 0, 3, 0, 5, 6], "tokens": ["are", "there", "any", "brewpubs", "on", "our", "route"]}
+{"tags": [0, 0, 0, 3, 5, 6, 0, 0, 3, 4], "tokens": ["are", "there", "any", "buffets", "in", "town", "with", "a", "smoking", "section"]}
+{"tags": [0, 0, 0, 3, 5, 6, 6, 6, 6], "tokens": ["are", "there", "any", "buffets", "within", "2", "miles", "of", "here"]}
+{"tags": [0, 0, 0, 12, 0, 0, 5, 0, 0, 10, 11, 11], "tokens": ["are", "there", "any", "burger", "joints", "in", "atlanta", "that", "are", "open", "after", "midnight"]}
+{"tags": [0, 0, 0, 14, 0, 5, 6, 6], "tokens": ["are", "there", "any", "burger", "joints", "in", "the", "area"]}
+{"tags": [0, 0, 0, 7, 8, 0, 0, 5, 6], "tokens": ["are", "there", "any", "burger", "king", "restaurants", "on", "my", "route"]}
+{"tags": [0, 0, 0, 7, 8, 5, 6], "tokens": ["are", "there", "any", "burger", "kings", "near", "by"]}
+{"tags": [0, 0, 0, 7, 8, 5], "tokens": ["are", "there", "any", "burger", "kings", "nearby"]}
+{"tags": [0, 0, 0, 7, 8, 5, 6, 6], "tokens": ["are", "there", "any", "burger", "kings", "within", "5", "miles"]}
+{"tags": [0, 0, 0, 7, 8, 5, 6, 6, 0, 0], "tokens": ["are", "there", "any", "burger", "kings", "within", "5", "miles", "of", "here"]}
+{"tags": [0, 0, 0, 12, 0, 12, 0, 5, 6, 6], "tokens": ["are", "there", "any", "burgers", "and", "cupcakes", "locations", "outside", "of", "manhattan"]}
+{"tags": [0, 0, 0, 3, 0, 0, 5, 6], "tokens": ["are", "there", "any", "byob", "joints", "on", "chester", "st"]}
+{"tags": [0, 0, 0, 14, 10, 11, 11, 11, 0, 0, 3, 4], "tokens": ["are", "there", "any", "cafes", "open", "past", "11", "pm", "which", "have", "internet", "access"]}
+{"tags": [0, 0, 0, 3, 4, 4, 0, 0, 5], "tokens": ["are", "there", "any", "casual", "patio", "type", "dining", "places", "nearby"]}
+{"tags": [0, 0, 0, 3, 4, 0, 0, 14, 0, 5, 6], "tokens": ["are", "there", "any", "celebrity", "hangouts", "that", "serve", "german", "food", "near", "here"]}
+{"tags": [0, 0, 0, 14, 0, 5, 0, 3, 4, 4], "tokens": ["are", "there", "any", "chain", "restaurants", "nearby", "where", "kids", "eat", "free"]}
+{"tags": [0, 0, 0, 3, 4, 4, 14, 16, 16, 5], "tokens": ["are", "there", "any", "charming", "non", "smoking", "ice", "cream", "parlors", "nearby"]}
+{"tags": [0, 0, 0, 9, 1, 2, 0, 5, 6], "tokens": ["are", "there", "any", "cheap", "4", "star", "restaurants", "near", "here"]}
+{"tags": [0, 0, 0, 9, 14, 0, 5, 6, 6], "tokens": ["are", "there", "any", "cheap", "burger", "places", "in", "this", "neighborhood"]}
+{"tags": [0, 0, 0, 9, 14, 5, 6], "tokens": ["are", "there", "any", "cheap", "cafes", "near", "here"]}
+{"tags": [0, 0, 0, 9, 14, 0, 5, 6, 6, 6], "tokens": ["are", "there", "any", "cheap", "colombian", "restaurants", "around", "3", "rd", "street"]}
+{"tags": [0, 0, 0, 9, 14, 0, 0, 5, 6], "tokens": ["are", "there", "any", "cheap", "cuban", "joints", "along", "terminal", "road"]}
+{"tags": [0, 0, 0, 9, 14, 0, 5], "tokens": ["are", "there", "any", "cheap", "cuban", "restaurants", "nearby"]}
+{"tags": [0, 0, 0, 9, 14, 0, 0, 10, 11, 11, 11, 5], "tokens": ["are", "there", "any", "cheap", "family", "style", "restaurants", "open", "after", "12", "pm", "nearby"]}
+{"tags": [0, 0, 0, 9, 14, 5, 6, 6, 0, 1, 2], "tokens": ["are", "there", "any", "cheap", "halal", "places", "around", "here", "with", "good", "views"]}
+{"tags": [0, 0, 0, 9, 0, 0, 0, 5], "tokens": ["are", "there", "any", "cheap", "places", "to", "eat", "nearby"]}
+{"tags": [0, 0, 0, 9, 0, 5, 6], "tokens": ["are", "there", "any", "cheap", "restaurants", "near", "canton"]}
+{"tags": [0, 0, 0, 14, 0, 0, 3, 4, 0, 0, 5, 6], "tokens": ["are", "there", "any", "chilean", "restaurants", "with", "live", "music", "on", "the", "south", "side"]}
+{"tags": [0, 0, 0, 7, 5, 6, 6], "tokens": ["are", "there", "any", "chilis", "in", "my", "area"]}
+{"tags": [0, 0, 0, 14, 0, 5, 6, 6], "tokens": ["are", "there", "any", "chinese", "restaurant", "within", "10", "miles"]}
+{"tags": [0, 0, 0, 14, 0, 5, 6], "tokens": ["are", "there", "any", "chinese", "restaurants", "around", "here"]}
+{"tags": [0, 0, 0, 14, 0, 5], "tokens": ["are", "there", "any", "chinese", "restaurants", "nearby"]}
+{"tags": [0, 0, 0, 14, 0, 5, 0, 0, 3, 4], "tokens": ["are", "there", "any", "chinese", "restaurants", "nearby", "with", "a", "historical", "design"]}
+{"tags": [0, 0, 0, 14, 0, 0, 5, 6, 6, 6, 6, 0, 0, 0, 0, 3, 4, 4], "tokens": ["are", "there", "any", "chinese", "restaurants", "on", "east", "86th", "street", "in", "manhattan", "where", "i", "can", "get", "takeout", "lunch", "specials"]}
+{"tags": [0, 0, 0, 14, 0, 0, 0, 3, 4, 5, 6, 6], "tokens": ["are", "there", "any", "chinese", "restaurants", "that", "serve", "carry", "out", "in", "this", "city"]}
+{"tags": [0, 0, 0, 7, 8, 0, 0, 0], "tokens": ["are", "there", "any", "cicis", "pizza", "near", "the", "hotel"]}
+{"tags": [0, 0, 0, 3, 14, 0, 5, 6], "tokens": ["are", "there", "any", "completely", "vegan", "restaurants", "around", "here"]}
+{"tags": [0, 0, 0, 14, 0, 0, 5, 6], "tokens": ["are", "there", "any", "cuban", "restaurants", "in", "this", "city"]}
+{"tags": [0, 0, 0, 14, 0, 5, 6], "tokens": ["are", "there", "any", "cuban", "restaurants", "near", "milford"]}
+{"tags": [0, 0, 0, 14, 0, 10, 11, 11, 11, 0, 0, 10, 11, 0, 5], "tokens": ["are", "there", "any", "cuban", "restaurants", "open", "at", "2", "pm", "for", "a", "late", "lunch", "in", "miami"]}
+{"tags": [0, 0, 0, 14, 5, 6, 6], "tokens": ["are", "there", "any", "delis", "along", "my", "route"]}
+{"tags": [0, 0, 0, 14, 5, 6], "tokens": ["are", "there", "any", "delis", "near", "by"]}
+{"tags": [0, 0, 0, 14, 5], "tokens": ["are", "there", "any", "delis", "nearby"]}
+{"tags": [0, 0, 0, 7, 0, 5, 6, 6], "tokens": ["are", "there", "any", "denneys", "restaurants", "in", "this", "town"]}
+{"tags": [0, 0, 0, 7, 5, 6, 6], "tokens": ["are", "there", "any", "dennys", "within", "5", "miles"]}
+{"tags": [0, 0, 0, 14, 16, 0, 5, 6], "tokens": ["are", "there", "any", "dessert", "bars", "in", "san", "francisco"]}
+{"tags": [0, 0, 0, 14, 5, 6, 6], "tokens": ["are", "there", "any", "diners", "along", "my", "route"]}
+{"tags": [0, 0, 0, 14, 0, 0, 5], "tokens": ["are", "there", "any", "diners", "in", "the", "area"]}
+{"tags": [0, 0, 0, 14, 5, 6, 6, 6], "tokens": ["are", "there", "any", "diners", "near", "my", "current", "location"]}
+{"tags": [0, 0, 0, 14, 5], "tokens": ["are", "there", "any", "diners", "nearby"]}
+{"tags": [0, 0, 0, 0, 10, 11, 11, 11, 0, 3, 4], "tokens": ["are", "there", "any", "diners", "open", "before", "5", "am", "that", "allow", "smoking"]}
+{"tags": [0, 0, 0, 0, 0, 0, 0, 0, 10, 0, 5], "tokens": ["are", "there", "any", "diners", "that", "serve", "breakfast", "all", "day", "in", "town"]}
+{"tags": [0, 0, 0, 14, 5, 6, 6], "tokens": ["are", "there", "any", "diners", "within", "5", "miles"]}
+{"tags": [0, 0, 0, 14, 0, 5, 6], "tokens": ["are", "there", "any", "donut", "shops", "around", "here"]}
+{"tags": [0, 0, 0, 3, 4, 5], "tokens": ["are", "there", "any", "drive", "throughs", "nearby"]}
+{"tags": [0, 0, 0, 14, 5, 0, 0, 0, 3, 4, 4, 4, 10, 11, 11], "tokens": ["are", "there", "any", "eateries", "nearby", "that", "where", "can", "dine", "at", "the", "bar", "after", "2", "am"]}
+{"tags": [0, 0, 0, 3, 4, 0, 0, 0, 12, 13, 13, 10, 11], "tokens": ["are", "there", "any", "elegant", "dress", "restaurants", "that", "serve", "messy", "hot", "wings", "after", "midnight"]}
+{"tags": [0, 0, 0, 14, 0, 5, 6], "tokens": ["are", "there", "any", "ethiopian", "restaurants", "in", "town"]}
+{"tags": [0, 0, 0, 14, 0, 0, 0, 5], "tokens": ["are", "there", "any", "ethiopian", "restaurants", "on", "the", "waterfront"]}
+{"tags": [0, 0, 0, 9, 1, 0, 5, 6, 6], "tokens": ["are", "there", "any", "expensive", "great", "restaurants", "in", "my", "town"]}
+{"tags": [0, 0, 0, 9, 0, 5, 0, 3, 4], "tokens": ["are", "there", "any", "expensive", "restaurants", "nearby", "that", "allow", "children"]}
+{"tags": [0, 0, 0, 9, 15, 0, 0, 3, 4], "tokens": ["are", "there", "any", "fairly", "inexpensive", "restaurants", "with", "valet", "parking"]}
+{"tags": [0, 0, 0, 3, 4, 0, 5, 6, 0, 9, 0], "tokens": ["are", "there", "any", "family", "dining", "restaurants", "close", "by", "with", "great", "prices"]}
+{"tags": [0, 0, 0, 3, 4, 4, 4, 0, 5, 6, 6], "tokens": ["are", "there", "any", "family", "friendly", "sit", "down", "restaurants", "in", "this", "mall"]}
+{"tags": [0, 0, 0, 14, 0, 10, 11, 11, 11, 11, 11], "tokens": ["are", "there", "any", "family", "restaurants", "open", "at", "4", "am", "on", "weekdays"]}
+{"tags": [0, 0, 0, 3, 4, 14, 5, 6, 6, 6, 6], "tokens": ["are", "there", "any", "family", "style", "steakhouses", "within", "a", "mile", "of", "here"]}
+{"tags": [0, 0, 0, 1, 0, 3, 0, 0, 0, 5], "tokens": ["are", "there", "any", "famous", "or", "historical", "restaurants", "in", "the", "area"]}
+{"tags": [0, 0, 0, 14, 16, 0, 10], "tokens": ["are", "there", "any", "fast", "food", "places", "open"]}
+{"tags": [0, 0, 0, 14, 16, 0, 5, 6, 6, 0, 0], "tokens": ["are", "there", "any", "fast", "food", "places", "within", "a", "mile", "of", "me"]}
+{"tags": [0, 0, 0, 14, 16, 0, 5, 6, 6], "tokens": ["are", "there", "any", "fast", "food", "restaurants", "along", "my", "route"]}
+{"tags": [0, 0, 0, 14, 16, 0, 5, 6], "tokens": ["are", "there", "any", "fast", "food", "restaurants", "close", "by"]}
+{"tags": [0, 0, 0, 14, 16, 0, 5, 6, 6], "tokens": ["are", "there", "any", "fast", "food", "restaurants", "in", "the", "area"]}
+{"tags": [0, 0, 0, 14, 16, 0, 0, 3, 4], "tokens": ["are", "there", "any", "fast", "food", "restaurants", "offering", "valet", "parking"]}
+{"tags": [0, 0, 0, 14, 16, 0, 10, 11], "tokens": ["are", "there", "any", "fast", "food", "restaurants", "open", "now"]}
+{"tags": [0, 0, 0, 14, 16, 0, 10, 11], "tokens": ["are", "there", "any", "fast", "food", "restaurants", "still", "open"]}
+{"tags": [0, 0, 0, 14, 16, 0, 0, 0, 3, 4, 5], "tokens": ["are", "there", "any", "fast", "food", "restaurants", "with", "a", "parking", "deck", "nearby"]}
+{"tags": [0, 0, 0, 3, 4, 0, 5, 0, 3, 4, 4, 4], "tokens": ["are", "there", "any", "fine", "dining", "restaurants", "nearby", "that", "accept", "paypal", "as", "payment"]}
+{"tags": [0, 0, 0, 14, 16, 0, 0, 0, 0, 0, 3, 4, 4, 4, 4, 4, 4, 5, 6, 6, 6, 6], "tokens": ["are", "there", "any", "fine", "dining", "restaurants", "that", "allow", "me", "to", "eat", "my", "elegant", "meal", "in", "my", "car", "within", "10", "miles", "of", "here"]}
+{"tags": [0, 0, 0, 3, 4, 0, 0, 0, 0, 0, 0, 0, 0, 3, 4, 4], "tokens": ["are", "there", "any", "fine", "dining", "restaurants", "that", "i", "can", "take", "a", "date", "to", "without", "a", "reservation"]}
+{"tags": [0, 0, 0, 14, 16, 0, 0, 5, 6], "tokens": ["are", "there", "any", "fine", "dining", "restaurants", "thats", "arent", "downtown"]}
+{"tags": [0, 0, 0, 1, 2, 14, 0, 0, 0, 12, 0, 0, 5, 6], "tokens": ["are", "there", "any", "first", "rate", "indian", "restaurant", "that", "serves", "curry", "in", "the", "governement", "center"]}
+{"tags": [0, 0, 0, 1, 2, 0, 0, 0, 5], "tokens": ["are", "there", "any", "first", "rate", "restaurant", "on", "the", "waterfront"]}
+{"tags": [0, 0, 0, 1, 2, 0, 0, 5, 6], "tokens": ["are", "there", "any", "five", "star", "restaurants", "in", "this", "area"]}
+{"tags": [0, 0, 0, 14, 16, 0, 0, 5, 6], "tokens": ["are", "there", "any", "food", "trucks", "in", "the", "downtown", "area"]}
+{"tags": [0, 0, 0, 3, 4, 7, 0, 0, 5, 6], "tokens": ["are", "there", "any", "free", "standing", "cinnabon", "restaurants", "in", "washington", "dc"]}
+{"tags": [0, 0, 0, 14, 0, 5, 6], "tokens": ["are", "there", "any", "french", "restaurants", "around", "here"]}
+{"tags": [0, 0, 0, 3, 4, 0, 10, 11, 11, 5, 6], "tokens": ["are", "there", "any", "full", "service", "restaurants", "open", "after", "midnight", "around", "here"]}
+{"tags": [0, 0, 0, 14, 0, 0, 5, 6, 6], "tokens": ["are", "there", "any", "german", "food", "restaurants", "within", "4", "miles"]}
+{"tags": [0, 0, 0, 14, 0, 5], "tokens": ["are", "there", "any", "german", "restaurants", "nearby"]}
+{"tags": [0, 0, 0, 14, 0, 5, 0, 3, 4, 4], "tokens": ["are", "there", "any", "german", "restaurants", "nearby", "that", "celebs", "hangout", "at"]}
+{"tags": [0, 0, 0, 14, 0, 0, 0, 10, 11, 11, 0, 5], "tokens": ["are", "there", "any", "german", "restaurants", "that", "are", "open", "all", "day", "in", "ashland"]}
+{"tags": [0, 0, 0, 1, 14, 0, 5, 6], "tokens": ["are", "there", "any", "good", "burger", "joints", "around", "here"]}
+{"tags": [0, 0, 0, 1, 14, 0, 5, 6], "tokens": ["are", "there", "any", "good", "delis", "in", "little", "china"]}
+{"tags": [0, 0, 0, 1, 14, 0, 5, 6], "tokens": ["are", "there", "any", "good", "mexican", "restaurants", "near", "tuscon"]}
+{"tags": [0, 0, 0, 1, 14, 0, 5, 6], "tokens": ["are", "there", "any", "good", "pizza", "places", "around", "here"]}
+{"tags": [0, 0, 0, 1, 0, 0, 14, 0, 0, 0, 0, 14, 0, 10, 11, 11, 11, 11, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0], "tokens": ["are", "there", "any", "good", "places", "to", "drink", "nearby", "i", "need", "a", "bar", "thats", "still", "open", "at", "this", "hour", "if", "you", "dont", "know", "the", "hours", "of", "operation", "give", "me", "a", "phone", "number", "so", "i", "can", "check"]}
+{"tags": [0, 0, 0, 1, 0, 0, 0, 5, 6, 6], "tokens": ["are", "there", "any", "good", "places", "to", "eat", "in", "the", "area"]}
+{"tags": [0, 0, 0, 1, 0, 0, 12, 13, 0, 0], "tokens": ["are", "there", "any", "good", "places", "with", "fresh", "seafood", "around", "here"]}
+{"tags": [0, 0, 0, 0, 12, 0, 5, 6, 6], "tokens": ["are", "there", "any", "good", "potato", "places", "near", "north", "quincy"]}
+{"tags": [0, 0, 0, 1, 0, 0, 3, 4, 0], "tokens": ["are", "there", "any", "good", "restaurants", "having", "happy", "hour", "now"]}
+{"tags": [0, 0, 0, 1, 0, 5, 6, 6], "tokens": ["are", "there", "any", "good", "restaurants", "in", "the", "area"]}
+{"tags": [0, 0, 0, 1, 0, 5, 6, 0, 0, 0, 9, 15, 0, 0, 10, 11], "tokens": ["are", "there", "any", "good", "restaurants", "near", "by", "that", "have", "a", "good", "deal", "going", "on", "right", "now"]}
+{"tags": [0, 0, 0, 1, 2, 0, 7, 8, 8], "tokens": ["are", "there", "any", "good", "reviews", "for", "hals", "pie", "restaurant"]}
+{"tags": [0, 0, 0, 1, 14, 0, 5], "tokens": ["are", "there", "any", "good", "seafood", "restaurants", "nearby"]}
+{"tags": [0, 0, 0, 14, 0, 0, 5], "tokens": ["are", "there", "any", "greek", "restaurants", "in", "memphis"]}
+{"tags": [0, 0, 0, 14, 16, 16, 16, 5, 6], "tokens": ["are", "there", "any", "greek", "style", "pizza", "parlors", "near", "by"]}
+{"tags": [0, 0, 0, 14, 0, 0, 5, 10, 11, 11, 11], "tokens": ["are", "there", "any", "halal", "restaurants", "in", "natick", "open", "around", "8", "pm"]}
+{"tags": [0, 0, 0, 14, 0, 5, 6, 6, 0, 0, 0, 0, 10, 11, 11, 11], "tokens": ["are", "there", "any", "halal", "restaurants", "within", "ten", "minutes", "of", "here", "that", "are", "open", "before", "seven", "am"]}
+{"tags": [0, 0, 0, 3, 4, 0, 0], "tokens": ["are", "there", "any", "handicapped", "accessible", "restaurants", "around"]}
+{"tags": [0, 0, 0, 9, 0, 14, 0, 0, 5, 6], "tokens": ["are", "there", "any", "high", "priced", "irish", "restaurants", "on", "forest", "street"]}
+{"tags": [0, 0, 0, 1, 2, 14, 0, 0, 5], "tokens": ["are", "there", "any", "high", "rated", "chinese", "restaurants", "in", "florence"]}
+{"tags": [0, 0, 0, 1, 2, 14, 0, 5, 6, 6], "tokens": ["are", "there", "any", "high", "rated", "pancake", "places", "in", "this", "town"]}
+{"tags": [0, 0, 0, 1, 2, 0, 5, 0, 3, 4, 4, 0, 3], "tokens": ["are", "there", "any", "highly", "rated", "restaurants", "nearby", "that", "do", "not", "require", "a", "reservation"]}
+{"tags": [0, 0, 0, 1, 2, 14, 16, 5], "tokens": ["are", "there", "any", "highly", "rated", "steak", "houses", "nearby"]}
+{"tags": [0, 0, 0, 1, 2, 14, 16, 0, 3, 4], "tokens": ["are", "there", "any", "highly", "rated", "tapas", "bars", "with", "karaoke", "night"]}
+{"tags": [0, 0, 0, 12, 14, 0, 5, 9, 0, 0, 0], "tokens": ["are", "there", "any", "hip", "tea", "places", "nearby", "upscale", "would", "be", "nice"]}
+{"tags": [0, 0, 0, 3, 0, 0, 0, 5, 6, 0, 0, 12, 0, 0, 0], "tokens": ["are", "there", "any", "historic", "restaurants", "in", "the", "nearby", "area", "that", "have", "lobster", "on", "the", "menu"]}
+{"tags": [0, 0, 0, 3, 0, 5], "tokens": ["are", "there", "any", "historic", "restaurants", "nearby"]}
+{"tags": [0, 0, 0, 14, 0, 5, 6, 6], "tokens": ["are", "there", "any", "hotel", "restraunts", "in", "the", "area"]}
+{"tags": [0, 0, 0, 3, 0, 0, 12], "tokens": ["are", "there", "any", "hotels", "that", "serve", "dough"]}
+{"tags": [0, 0, 0, 7, 5, 6, 6, 0, 3, 4], "tokens": ["are", "there", "any", "hotels", "within", "ten", "miles", "that", "serve", "food"]}
+{"tags": [0, 0, 0, 14, 16, 0, 5, 6, 6], "tokens": ["are", "there", "any", "ice", "cream", "stores", "along", "the", "way"]}
+{"tags": [0, 0, 0, 7, 5], "tokens": ["are", "there", "any", "ihops", "nearby"]}
+{"tags": [0, 0, 0, 7, 5, 6, 6], "tokens": ["are", "there", "any", "ihops", "within", "5", "miles"]}
+{"tags": [0, 0, 0, 14, 0, 5, 6], "tokens": ["are", "there", "any", "indian", "restaurants", "near", "me"]}
+{"tags": [0, 0, 0, 14, 0, 5], "tokens": ["are", "there", "any", "indian", "restaurants", "nearby"]}
+{"tags": [0, 0, 0, 14, 0, 0, 0, 3, 4], "tokens": ["are", "there", "any", "indian", "restaurants", "that", "offer", "outdoor", "dining"]}
+{"tags": [0, 0, 0, 14, 0, 0, 1, 0, 0, 5, 6], "tokens": ["are", "there", "any", "indian", "restaurants", "with", "good", "ratings", "in", "this", "town"]}
+{"tags": [0, 0, 0, 14, 0, 5, 0, 3, 4, 4], "tokens": ["are", "there", "any", "italian", "places", "nearby", "where", "celebrities", "hang", "out"]}
+{"tags": [0, 0, 0, 14, 0, 5, 6, 6], "tokens": ["are", "there", "any", "italian", "restaurants", "in", "the", "area"]}
+{"tags": [0, 0, 0, 14, 0, 5, 6, 0, 0, 10, 11, 11, 11], "tokens": ["are", "there", "any", "italian", "restaurants", "near", "me", "that", "are", "open", "till", "11", "pm"]}
+{"tags": [0, 0, 0, 14, 0, 5], "tokens": ["are", "there", "any", "italian", "restaurants", "nearby"]}
+{"tags": [0, 0, 0, 14, 0, 10, 11, 11, 11], "tokens": ["are", "there", "any", "italian", "restaurants", "open", "before", "7", "am"]}
+{"tags": [0, 0, 0, 14, 0, 5, 6, 6, 0, 0, 3, 4], "tokens": ["are", "there", "any", "italian", "restaurants", "within", "3", "miles", "that", "have", "great", "service"]}
+{"tags": [0, 0, 0, 14, 0, 0, 0, 0, 10, 11], "tokens": ["are", "there", "any", "jamaican", "restaurants", "that", "are", "open", "24", "7"]}
+{"tags": [0, 0, 0, 14, 0, 5, 6, 0, 0, 3, 4, 4], "tokens": ["are", "there", "any", "japanese", "restaurants", "down", "town", "that", "offer", "traditional", "seating", "arrangements"]}
+{"tags": [0, 0, 0, 14, 16, 0, 5, 6], "tokens": ["are", "there", "any", "japanese", "steakhouses", "in", "los", "angeles"]}
+{"tags": [0, 0, 0, 3, 10, 0, 5, 6, 6], "tokens": ["are", "there", "any", "jazz", "supper", "clubs", "by", "the", "beach"]}
+{"tags": [0, 0, 0, 3, 4, 5], "tokens": ["are", "there", "any", "karaoke", "bars", "nearby"]}
+{"tags": [0, 0, 0, 7, 0, 5, 6, 6], "tokens": ["are", "there", "any", "kfc", "restaurants", "along", "my", "route"]}
+{"tags": [0, 0, 0, 3, 4, 14, 0, 5, 6], "tokens": ["are", "there", "any", "kid", "friendly", "chinese", "restaurants", "around", "here"]}
+{"tags": [0, 0, 0, 3, 4, 0, 5, 6], "tokens": ["are", "there", "any", "kid", "friendly", "restaurants", "around", "here"]}
+{"tags": [0, 0, 0, 3, 4, 0, 5, 6, 6], "tokens": ["are", "there", "any", "kid", "friendly", "restaurants", "near", "the", "park"]}
+{"tags": [0, 0, 0, 3, 4, 0, 5, 0, 0, 12], "tokens": ["are", "there", "any", "kid", "friendly", "restaurants", "nearby", "that", "serve", "sake"]}
+{"tags": [0, 0, 0, 3, 4, 0, 0, 0, 0, 0, 3, 4], "tokens": ["are", "there", "any", "kid", "friendly", "restaurants", "that", "also", "contain", "a", "smoking", "area"]}
+{"tags": [0, 0, 0, 3, 4, 0, 0, 3, 4, 4, 4, 4, 5], "tokens": ["are", "there", "any", "kid", "friendly", "restaurants", "that", "require", "an", "elegant", "dress", "code", "nearby"]}
+{"tags": [0, 0, 0, 3, 4, 12, 0, 5, 6], "tokens": ["are", "there", "any", "kid", "friendly", "pizza", "parlors", "around", "here"]}
+{"tags": [0, 0, 0, 14, 0, 5, 6], "tokens": ["are", "there", "any", "korean", "restaurants", "in", "town"]}
+{"tags": [0, 0, 0, 14, 16, 0, 5], "tokens": ["are", "there", "any", "kosher", "bars", "in", "wichita"]}
+{"tags": [0, 0, 0, 14, 16, 0, 5, 6], "tokens": ["are", "there", "any", "kosher", "delis", "on", "this", "street"]}
+{"tags": [0, 0, 0, 14, 0, 5], "tokens": ["are", "there", "any", "kosher", "places", "nearby"]}
+{"tags": [0, 0, 0, 5, 14, 0, 3, 4, 0, 0, 0], "tokens": ["are", "there", "any", "local", "bars", "that", "allow", "smoking", "in", "the", "restaurant"]}
+{"tags": [0, 0, 0, 1, 2, 0, 0, 12, 13, 5], "tokens": ["are", "there", "any", "local", "secret", "restaurants", "serving", "filet", "mignon", "nearby"]}
+{"tags": [0, 0, 0, 0, 0, 3, 4, 0, 12, 5], "tokens": ["are", "there", "any", "locations", "serving", "small", "portions", "of", "pastry", "nearby"]}
+{"tags": [0, 0, 0, 9, 15, 14, 0], "tokens": ["are", "there", "any", "low", "cost", "cuban", "restaurants"]}
+{"tags": [0, 0, 0, 14, 0, 5, 6, 6], "tokens": ["are", "there", "any", "malaysian", "places", "around", "roxbury", "crossing"]}
+{"tags": [0, 0, 0, 7, 5, 6], "tokens": ["are", "there", "any", "mcdonalds", "close", "by"]}
+{"tags": [0, 0, 0, 7, 5, 6, 6], "tokens": ["are", "there", "any", "mcdonalds", "in", "the", "vicinity"]}
+{"tags": [0, 0, 0, 7, 5, 6, 6, 6, 6, 6], "tokens": ["are", "there", "any", "mcdonalds", "within", "1", "mile", "of", "my", "job"]}
+{"tags": [0, 0, 0, 7, 5, 6, 6, 0, 0], "tokens": ["are", "there", "any", "mcdonalds", "within", "5", "miles", "of", "here"]}
+{"tags": [0, 0, 0, 7, 5, 6, 6, 0, 0], "tokens": ["are", "there", "any", "mcdonalds", "within", "5", "minutes", "of", "here"]}
+{"tags": [0, 0, 0, 14, 0, 0, 1, 2, 2, 5, 6], "tokens": ["are", "there", "any", "mexican", "places", "with", "high", "zagat", "ratings", "near", "me"]}
+{"tags": [0, 0, 0, 14, 0, 5, 6, 6], "tokens": ["are", "there", "any", "mexican", "restaurant", "in", "five", "miles"]}
+{"tags": [0, 0, 0, 14, 0, 5], "tokens": ["are", "there", "any", "mexican", "restaurants", "around"]}
+{"tags": [0, 0, 0, 14, 0, 5, 6, 6], "tokens": ["are", "there", "any", "mexican", "restaurants", "in", "my", "area"]}
+{"tags": [0, 0, 0, 14, 0, 5, 6, 6, 6, 6], "tokens": ["are", "there", "any", "mexican", "restaurants", "near", "port", "washington", "new", "york"]}
+{"tags": [0, 0, 0, 7, 1, 3, 4, 0, 5], "tokens": ["are", "there", "any", "michelin", "starred", "fine", "dining", "restaurant", "around"]}
+{"tags": [0, 0, 0, 9, 0, 14, 0, 0, 5, 6], "tokens": ["are", "there", "any", "mid", "priced", "vegan", "restaurants", "in", "north", "quincy"]}
+{"tags": [0, 0, 0, 9, 0, 14, 5], "tokens": ["are", "there", "any", "moderately", "priced", "steakhouses", "nearby"]}
+{"tags": [0, 0, 0, 14, 0, 0, 0, 5, 6, 6], "tokens": ["are", "there", "any", "mongolian", "eatery", "in", "the", "tri", "state", "area"]}
+{"tags": [0, 0, 0, 14, 16, 16, 0, 5], "tokens": ["are", "there", "any", "mystery", "dinner", "theaters", "in", "chattanooga"]}
+{"tags": [0, 0, 0, 3, 4, 14, 0, 5, 6], "tokens": ["are", "there", "any", "non", "smoking", "bars", "on", "this", "road"]}
+{"tags": [0, 0, 0, 3, 4, 0, 5, 6, 6], "tokens": ["are", "there", "any", "non", "smoking", "restaurants", "in", "the", "area"]}
+{"tags": [0, 0, 0, 1, 14, 16, 0, 5, 0, 9, 0], "tokens": ["are", "there", "any", "notable", "pad", "thai", "restaurants", "around", "with", "great", "prices"]}
+{"tags": [0, 0, 0, 7, 8, 0, 5, 6], "tokens": ["are", "there", "any", "olive", "gardens", "on", "my", "route"]}
+{"tags": [0, 0, 0, 14, 0, 5], "tokens": ["are", "there", "any", "organic", "restaurants", "nearby"]}
+{"tags": [0, 0, 0, 7, 5, 6, 6], "tokens": ["are", "there", "any", "outbacks", "along", "the", "route"]}
+{"tags": [0, 0, 0, 3, 14, 0, 5, 6], "tokens": ["are", "there", "any", "outdoor", "eatery", "on", "battery", "march"]}
+{"tags": [0, 0, 0, 3, 14, 0, 5, 0, 0, 10, 11, 11], "tokens": ["are", "there", "any", "outdoor", "kosher", "restaurants", "nearby", "that", "are", "open", "until", "midnight"]}
+{"tags": [0, 0, 0, 7, 8, 0, 5, 6, 6, 6], "tokens": ["are", "there", "any", "papa", "johns", "in", "glen", "head", "long", "island"]}
+{"tags": [0, 0, 0, 3, 4, 0, 5, 6, 6], "tokens": ["are", "there", "any", "pet", "friendly", "restaurants", "in", "my", "area"]}
+{"tags": [0, 0, 0, 14, 16, 0, 5], "tokens": ["are", "there", "any", "pizza", "parlors", "in", "indiana"]}
+{"tags": [0, 0, 0, 14, 0, 5, 6, 6], "tokens": ["are", "there", "any", "pizza", "places", "5", "miles", "away"]}
+{"tags": [0, 0, 0, 14, 0, 0, 0, 5, 6, 0, 0, 0, 3, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0], "tokens": ["are", "there", "any", "pizza", "places", "on", "the", "way", "home", "im", "looking", "for", "big", "portions", "so", "i", "can", "bring", "some", "home", "to", "the", "family"]}
+{"tags": [0, 0, 0, 12, 0, 10, 5, 6], "tokens": ["are", "there", "any", "pizza", "places", "open", "around", "here"]}
+{"tags": [0, 0, 0, 12, 0, 0, 0, 0, 10, 11, 11, 5, 6, 6, 6, 6, 6], "tokens": ["are", "there", "any", "pizza", "places", "that", "are", "still", "open", "after", "midnight", "less", "than", "10", "minutes", "from", "here"]}
+{"tags": [0, 0, 0, 14, 0, 0, 12, 13, 13, 5, 6, 6], "tokens": ["are", "there", "any", "pizza", "places", "with", "chicago", "style", "pizza", "in", "the", "area"]}
+{"tags": [0, 0, 0, 14, 0, 5, 6, 0, 9, 12, 13, 13], "tokens": ["are", "there", "any", "pizzerias", "on", "long", "island", "that", "1", "slices", "of", "pizza"]}
+{"tags": [0, 0, 0, 0, 5, 0, 9, 0, 0, 3, 4], "tokens": ["are", "there", "any", "place", "nearby", "with", "fantastic", "prices", "and", "online", "reservations"]}
+{"tags": [0, 0, 0, 0, 0, 0, 10, 11, 11, 11], "tokens": ["are", "there", "any", "place", "open", "for", "breakfast", "before", "5", "am"]}
+{"tags": [0, 0, 0, 0, 0, 3, 0, 3, 4, 4], "tokens": ["are", "there", "any", "place", "that", "caters", "to", "families", "with", "kids"]}
+{"tags": [0, 0, 0, 0, 0, 0, 10, 11, 11, 11], "tokens": ["are", "there", "any", "place", "that", "is", "open", "after", "12", "p"]}
+{"tags": [0, 0, 0, 0, 5, 6, 0, 3], "tokens": ["are", "there", "any", "places", "near", "by", "with", "carhops"]}
+{"tags": [0, 0, 0, 0, 5, 6, 0, 3, 4, 4, 4, 4], "tokens": ["are", "there", "any", "places", "near", "here", "that", "kids", "would", "want", "to", "eat"]}
+{"tags": [0, 0, 0, 0, 5, 0, 0, 12, 13], "tokens": ["are", "there", "any", "places", "nearby", "that", "serve", "ice", "cream"]}
+{"tags": [0, 0, 0, 0, 5, 0, 0, 0, 12, 13], "tokens": ["are", "there", "any", "places", "nearby", "to", "get", "a", "caesar", "salad"]}
+{"tags": [0, 0, 0, 0, 5, 0, 0, 3, 4, 4, 4, 12, 13], "tokens": ["are", "there", "any", "places", "nearby", "with", "a", "variety", "of", "diabetic", "friendly", "entree", "choices"]}
+{"tags": [0, 0, 0, 0, 0, 5, 6, 6, 6, 0, 0, 14, 0, 0, 9, 0, 0, 0, 0, 0, 3, 4, 4, 4], "tokens": ["are", "there", "any", "places", "on", "this", "side", "of", "town", "that", "serve", "mussels", "at", "a", "wonderful", "price", "and", "allow", "you", "to", "bring", "your", "own", "beverages"]}
+{"tags": [0, 0, 0, 0, 10, 0, 0, 10, 3, 10, 0, 0, 7, 8, 8], "tokens": ["are", "there", "any", "places", "open", "for", "an", "early", "business", "breakfast", "other", "than", "nu", "way", "cafe"]}
+{"tags": [0, 0, 0, 0, 0, 3, 5], "tokens": ["are", "there", "any", "places", "that", "deliver", "nearby"]}
+{"tags": [0, 0, 0, 0, 0, 0, 3, 4, 0, 0, 12, 5, 6], "tokens": ["are", "there", "any", "places", "that", "have", "happy", "hour", "and", "serve", "soup", "around", "here"]}
+{"tags": [0, 0, 0, 0, 0, 0, 3, 4, 4, 4, 4, 4, 4], "tokens": ["are", "there", "any", "places", "that", "have", "special", "prices", "if", "two", "meals", "are", "ordered"]}
+{"tags": [0, 0, 0, 0, 0, 3, 4, 4, 4, 4, 4], "tokens": ["are", "there", "any", "places", "that", "promote", "use", "of", "locally", "grown", "produce"]}
+{"tags": [0, 0, 0, 0, 0, 0, 14, 0, 0, 0, 0, 3, 4, 4], "tokens": ["are", "there", "any", "places", "that", "serve", "asian", "food", "where", "i", "can", "take", "my", "date"]}
+{"tags": [0, 0, 0, 0, 0, 0, 12, 0, 0, 3, 5, 6, 6], "tokens": ["are", "there", "any", "places", "that", "serve", "bagels", "and", "have", "beer", "along", "this", "route"]}
+{"tags": [0, 0, 0, 0, 0, 0, 12, 0, 0, 0, 0, 0, 0, 3, 4], "tokens": ["are", "there", "any", "places", "that", "serve", "chocolate", "for", "dessert", "and", "you", "can", "taste", "free", "samples"]}
+{"tags": [0, 0, 0, 0, 0, 0, 14, 5], "tokens": ["are", "there", "any", "places", "that", "serve", "halal", "nearby"]}
+{"tags": [0, 0, 0, 0, 0, 0, 0, 12, 5, 6], "tokens": ["are", "there", "any", "places", "that", "specialize", "in", "milkshakes", "near", "here"]}
+{"tags": [0, 0, 0, 0, 0, 0, 5, 6, 0, 0, 3, 4], "tokens": ["are", "there", "any", "places", "to", "eat", "around", "here", "with", "a", "drive", "thru"]}
+{"tags": [0, 0, 0, 0, 0, 0, 5, 6, 6, 0, 0, 0, 0, 0, 0, 9, 0], "tokens": ["are", "there", "any", "places", "to", "eat", "within", "five", "minutes", "of", "here", "try", "some", "place", "with", "amazing", "prices"]}
+{"tags": [0, 0, 0, 0, 0, 0, 14], "tokens": ["are", "there", "any", "places", "to", "get", "desert"]}
+{"tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 12, 13], "tokens": ["are", "there", "any", "places", "where", "i", "could", "catch", "a", "hot", "dog"]}
+{"tags": [0, 0, 0, 0, 0, 3, 4, 4], "tokens": ["are", "there", "any", "places", "with", "early", "bird", "specials"]}
+{"tags": [0, 0, 0, 0, 0, 3, 4, 0, 0, 12, 5, 6], "tokens": ["are", "there", "any", "places", "with", "fixed", "menus", "that", "sell", "cookies", "near", "by"]}
+{"tags": [0, 0, 0, 0, 5, 6, 6, 0, 3, 4, 4, 0, 0, 0, 0, 3, 0, 0], "tokens": ["are", "there", "any", "places", "within", "4", "miles", "that", "plays", "nice", "music", "and", "suitable", "for", "a", "group", "of", "people"]}
+{"tags": [0, 0, 0, 0, 5, 6, 6, 0, 0, 0, 12, 13, 13, 13, 13, 13], "tokens": ["are", "there", "any", "places", "within", "5", "miles", "that", "serve", "a", "dish", "this", "town", "is", "known", "for"]}
+{"tags": [0, 0, 0, 7, 5, 6, 6, 6, 6], "tokens": ["are", "there", "any", "popeyes", "within", "5", "miles", "of", "here"]}
+{"tags": [0, 0, 0, 14, 16, 0, 0, 0, 5, 6, 6, 6, 6], "tokens": ["are", "there", "any", "raw", "vegan", "restaurants", "in", "the", "long", "beach", "long", "island", "area"]}
+{"tags": [0, 0, 0, 9, 15, 0, 5, 0, 0, 10, 11, 11, 11, 11], "tokens": ["are", "there", "any", "really", "cheap", "restaurants", "around", "that", "are", "open", "7", "days", "a", "week"]}
+{"tags": [0, 0, 0, 9, 0, 14, 0], "tokens": ["are", "there", "any", "reasonably", "priced", "mexican", "spots"]}
+{"tags": [0, 0, 0, 9, 0, 0, 0, 10, 11, 11, 11], "tokens": ["are", "there", "any", "reasonably", "priced", "restaurant", "that", "opens", "before", "8", "am"]}
+{"tags": [0, 0, 0, 9, 0, 0, 5], "tokens": ["are", "there", "any", "reasonably", "priced", "restaurants", "nearby"]}
+{"tags": [0, 0, 0, 0, 0, 0, 3, 4], "tokens": ["are", "there", "any", "restarurants", "that", "have", "bands", "playing"]}
+{"tags": [0, 0, 0, 0, 5, 6, 6, 0, 0, 0, 0, 0, 3, 4, 4], "tokens": ["are", "there", "any", "restaurant", "in", "the", "area", "that", "will", "allow", "me", "to", "bring", "my", "dog"]}
+{"tags": [0, 0, 0, 0, 0, 0, 12, 0, 14, 0], "tokens": ["are", "there", "any", "restaurants", "around", "featuring", "enchiladas", "or", "mexican", "food"]}
+{"tags": [0, 0, 0, 0, 0, 0, 10, 3], "tokens": ["are", "there", "any", "restaurants", "around", "featuring", "lunch", "specials"]}
+{"tags": [0, 0, 0, 0, 5, 6, 0, 3, 4], "tokens": ["are", "there", "any", "restaurants", "around", "here", "that", "allow", "dogs"]}
+{"tags": [0, 0, 0, 0, 5, 6, 0, 0, 3, 4], "tokens": ["are", "there", "any", "restaurants", "around", "here", "that", "give", "senor", "discounts"]}
+{"tags": [0, 0, 0, 0, 5, 6, 6, 6], "tokens": ["are", "there", "any", "restaurants", "between", "here", "and", "work"]}
+{"tags": [0, 0, 0, 0, 5, 6, 6], "tokens": ["are", "there", "any", "restaurants", "by", "the", "hospital"]}
+{"tags": [0, 0, 0, 0, 0, 0, 10, 5, 6, 6, 6, 6], "tokens": ["are", "there", "any", "restaurants", "currently", "serving", "brunch", "within", "three", "miles", "of", "here"]}
+{"tags": [0, 0, 0, 0, 0, 5, 6, 0, 10, 11, 11, 11, 11, 11, 11, 11], "tokens": ["are", "there", "any", "restaurants", "in", "inman", "square", "thats", "open", "after", "9", "pm", "7", "days", "a", "week"]}
+{"tags": [0, 0, 0, 0, 0, 5, 6, 0, 0, 0, 0, 0, 10, 0, 9, 15, 15], "tokens": ["are", "there", "any", "restaurants", "in", "new", "paris", "that", "i", "can", "get", "some", "lunch", "that", "arent", "real", "expensive"]}
+{"tags": [0, 0, 0, 0, 0, 0, 5, 0, 0, 0, 3, 4, 4, 4], "tokens": ["are", "there", "any", "restaurants", "in", "the", "area", "that", "i", "can", "pay", "with", "travelers", "checks"]}
+{"tags": [0, 0, 0, 0, 0, 0, 5, 6, 0, 0, 5, 6], "tokens": ["are", "there", "any", "restaurants", "in", "the", "theatre", "district", "located", "on", "beaumont", "street"]}
+{"tags": [0, 0, 0, 0, 0, 5, 6, 0, 0, 3, 4, 0], "tokens": ["are", "there", "any", "restaurants", "in", "this", "area", "that", "have", "outdoor", "dining", "available"]}
+{"tags": [0, 0, 0, 0, 5, 6, 6, 0, 0, 0, 0, 0, 0, 0, 3, 4, 4, 4, 4, 4], "tokens": ["are", "there", "any", "restaurants", "in", "this", "city", "with", "a", "dining", "room", "that", "have", "a", "great", "view", "of", "the", "night", "skyline"]}
+{"tags": [0, 0, 0, 0, 5, 6, 0, 0, 0, 0, 3, 4], "tokens": ["are", "there", "any", "restaurants", "in", "town", "that", "also", "have", "a", "happy", "hour"]}
+{"tags": [0, 0, 0, 0, 5, 6], "tokens": ["are", "there", "any", "restaurants", "near", "by"]}
+{"tags": [0, 0, 0, 0, 5, 6, 6, 6, 6, 0, 12], "tokens": ["are", "there", "any", "restaurants", "near", "the", "theater", "close", "by", "offering", "cocktails"]}
+{"tags": [0, 0, 0, 0, 5], "tokens": ["are", "there", "any", "restaurants", "nearby"]}
+{"tags": [0, 0, 0, 0, 5, 0, 0, 10, 11], "tokens": ["are", "there", "any", "restaurants", "nearby", "that", "are", "open", "late"]}
+{"tags": [0, 0, 0, 0, 5, 0, 0, 3, 4], "tokens": ["are", "there", "any", "restaurants", "nearby", "that", "have", "outside", "dining"]}
+{"tags": [0, 0, 0, 0, 5, 0, 0, 12], "tokens": ["are", "there", "any", "restaurants", "nearby", "that", "serve", "shrimp"]}
+{"tags": [0, 0, 0, 0, 5, 0, 0, 0, 0, 12, 0, 12], "tokens": ["are", "there", "any", "restaurants", "nearby", "where", "i", "can", "get", "beer", "and", "bratwurst"]}
+{"tags": [0, 0, 0, 0, 0, 5, 6, 0, 3, 4], "tokens": ["are", "there", "any", "restaurants", "on", "kerry", "place", "featuring", "fireplace", "dining"]}
+{"tags": [0, 0, 0, 0, 0, 5, 6, 0, 0, 3, 4], "tokens": ["are", "there", "any", "restaurants", "on", "long", "island", "with", "a", "smoking", "section"]}
+{"tags": [0, 0, 0, 0, 0, 5, 6, 0, 0, 12], "tokens": ["are", "there", "any", "restaurants", "on", "oak", "street", "that", "serve", "sushi"]}
+{"tags": [0, 0, 0, 0, 10, 0, 10, 11, 0, 0, 12], "tokens": ["are", "there", "any", "restaurants", "open", "on", "thanksgiving", "day", "that", "serve", "turkey"]}
+{"tags": [0, 0, 0, 0, 10, 0, 0, 0, 3, 5], "tokens": ["are", "there", "any", "restaurants", "open", "that", "have", "a", "buffet", "nearby"]}
+{"tags": [0, 0, 0, 0, 10, 11, 11, 5], "tokens": ["are", "there", "any", "restaurants", "open", "this", "early", "nearby"]}
+{"tags": [0, 0, 0, 0, 0, 12, 13, 10, 11, 11, 5, 6, 6, 6, 6], "tokens": ["are", "there", "any", "restaurants", "serving", "french", "fries", "before", "nine", "am", "within", "four", "miles", "of", "here"]}
+{"tags": [0, 0, 0, 0, 0, 9, 0, 12, 5], "tokens": ["are", "there", "any", "restaurants", "serving", "moderately", "priced", "margaritas", "nearby"]}
+{"tags": [0, 0, 0, 0, 0, 0, 14, 0, 5, 6, 6, 6, 6], "tokens": ["are", "there", "any", "restaurants", "specializing", "in", "english", "food", "within", "a", "5", "mile", "radius"]}
+{"tags": [0, 0, 0, 0, 0, 0, 0, 12, 0, 10, 11], "tokens": ["are", "there", "any", "restaurants", "that", "are", "serving", "beans", "at", "2", "am"]}
+{"tags": [0, 0, 0, 0, 0, 0, 3, 4, 4, 4], "tokens": ["are", "there", "any", "restaurants", "that", "have", "discounts", "for", "college", "kids"]}
+{"tags": [0, 0, 0, 0, 0, 0, 1, 2, 0, 0, 12, 0, 0, 10, 11, 11, 11], "tokens": ["are", "there", "any", "restaurants", "that", "have", "good", "reviews", "for", "their", "milkshakes", "that", "are", "open", "at", "7", "am"]}
+{"tags": [0, 0, 0, 0, 0, 0, 9, 15, 15, 15], "tokens": ["are", "there", "any", "restaurants", "that", "have", "two", "for", "1", "deals"]}
+{"tags": [0, 0, 0, 0, 0, 0, 3, 4, 4, 0, 3, 4], "tokens": ["are", "there", "any", "restaurants", "that", "offer", "outdoor", "live", "music", "and", "outdoor", "dining"]}
+{"tags": [0, 0, 0, 0, 0, 0, 10, 11, 0, 0, 9], "tokens": ["are", "there", "any", "restaurants", "that", "opens", "before", "lunch", "and", "is", "cheap"]}
+{"tags": [0, 0, 0, 0, 0, 0, 14, 0], "tokens": ["are", "there", "any", "restaurants", "that", "serve", "mediterranean", "food"]}
+{"tags": [0, 0, 0, 0, 0, 0, 14, 0, 0, 0, 5, 6, 6, 6], "tokens": ["are", "there", "any", "restaurants", "that", "serves", "southwestern", "cuisine", "and", "is", "located", "with", "5", "miles"]}
+{"tags": [0, 0, 0, 0, 0, 0, 10, 11, 11, 0, 5], "tokens": ["are", "there", "any", "restaurants", "that", "stay", "open", "past", "midnight", "in", "arlington"]}
+{"tags": [0, 0, 0, 0, 0, 0, 14, 3, 4], "tokens": ["are", "there", "any", "restaurants", "thats", "serve", "breakfast", "all", "day"]}
+{"tags": [0, 0, 0, 0, 0, 3, 4, 4, 0, 9], "tokens": ["are", "there", "any", "restaurants", "where", "kids", "can", "eat", "for", "free"]}
+{"tags": [0, 0, 0, 0, 0, 0, 3, 4, 0, 3, 5, 6], "tokens": ["are", "there", "any", "restaurants", "with", "a", "play", "area", "for", "kids", "near", "here"]}
+{"tags": [0, 0, 0, 0, 0, 3, 4, 0, 0, 10, 11, 11, 11], "tokens": ["are", "there", "any", "restaurants", "with", "fast", "service", "that", "are", "open", "before", "11", "am"]}
+{"tags": [0, 0, 0, 0, 0, 3, 4, 5, 6], "tokens": ["are", "there", "any", "restaurants", "with", "free", "parking", "around", "here"]}
+{"tags": [0, 0, 0, 0, 0, 3, 0, 0, 3, 4, 0, 0, 3, 4, 4, 4], "tokens": ["are", "there", "any", "restaurants", "with", "games", "or", "a", "play", "area", "that", "take", "kids", "birthday", "party", "reservations"]}
+{"tags": [0, 0, 0, 0, 5, 6, 6, 6, 6, 6, 0, 0, 10, 11, 11], "tokens": ["are", "there", "any", "restaurants", "within", "1", "mile", "of", "my", "hotel", "that", "are", "opened", "24", "hours"]}
+{"tags": [0, 0, 0, 0, 5, 6, 6, 0, 3, 4, 4], "tokens": ["are", "there", "any", "restaurants", "within", "10", "miles", "where", "kids", "eat", "free"]}
+{"tags": [0, 0, 0, 0, 5, 6, 6, 0, 0, 3, 4, 0, 0, 0, 0, 0, 0], "tokens": ["are", "there", "any", "restaurants", "within", "15", "miles", "that", "are", "smoke", "free", "what", "type", "of", "restaurants", "are", "they"]}
+{"tags": [0, 0, 0, 0, 5, 6, 6, 0, 0], "tokens": ["are", "there", "any", "restaurants", "within", "a", "mile", "of", "here"]}
+{"tags": [0, 0, 0, 0, 5, 6, 6, 0, 0, 3, 4], "tokens": ["are", "there", "any", "restaurants", "within", "walking", "distance", "that", "has", "valet", "parking"]}
+{"tags": [0, 0, 0, 0, 10, 11, 11, 0, 0, 3, 4, 4], "tokens": ["are", "there", "any", "restuarants", "open", "till", "midnight", "that", "serve", "perfectly", "portioned", "meals"]}
+{"tags": [0, 0, 0, 0, 5, 6, 6, 0, 0, 10, 11, 11, 0, 0, 0, 3, 4, 4, 0, 3, 4], "tokens": ["are", "there", "any", "restuarants", "within", "10", "miles", "that", "are", "open", "until", "2am", "that", "have", "a", "full", "service", "menu", "and", "serve", "alcohol"]}
+{"tags": [0, 0, 0, 0, 0, 7], "tokens": ["are", "there", "any", "reviews", "about", "mcdills"]}
+{"tags": [0, 0, 0, 3, 14, 0], "tokens": ["are", "there", "any", "romantic", "vegan", "restaurants"]}
+{"tags": [0, 0, 0, 14, 0, 0, 5], "tokens": ["are", "there", "any", "sandwich", "shops", "in", "california"]}
+{"tags": [0, 0, 0, 14, 0, 5], "tokens": ["are", "there", "any", "scandanavian", "places", "around"]}
+{"tags": [0, 0, 0, 14, 3, 0, 5, 6], "tokens": ["are", "there", "any", "seafood", "buffet", "places", "around", "here"]}
+{"tags": [0, 0, 0, 14, 0, 5, 6, 6, 6], "tokens": ["are", "there", "any", "seafood", "restaurants", "close", "to", "hicksville", "ny"]}
+{"tags": [0, 0, 0, 14, 0, 0, 5, 6], "tokens": ["are", "there", "any", "seafood", "restaurants", "in", "montauk", "ny"]}
+{"tags": [0, 0, 0, 14, 0, 5], "tokens": ["are", "there", "any", "seafood", "restaurants", "nearby"]}
+{"tags": [0, 0, 0, 14, 0, 0, 0, 0, 3, 4], "tokens": ["are", "there", "any", "seafood", "restaurants", "that", "have", "a", "smoking", "section"]}
+{"tags": [0, 0, 0, 7, 5, 6, 6], "tokens": ["are", "there", "any", "sonics", "along", "my", "route"]}
+{"tags": [0, 0, 0, 3, 4, 0, 7, 8, 8], "tokens": ["are", "there", "any", "special", "deals", "for", "yogis", "yogurt", "place"]}
+{"tags": [0, 0, 0, 3, 4, 5, 0, 0, 0, 12, 13], "tokens": ["are", "there", "any", "special", "location", "dining", "restaurants", "that", "serve", "lobster", "roll"]}
+{"tags": [0, 0, 0, 3, 4, 4, 0, 0, 12, 10, 11, 11], "tokens": ["are", "there", "any", "special", "occasion", "dining", "facilities", "serving", "tacos", "before", "10", "am"]}
+{"tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0], "tokens": ["are", "there", "any", "specialties", "being", "offered", "at", "any", "nearby", "restaurants"]}
+{"tags": [0, 0, 0, 7, 5], "tokens": ["are", "there", "any", "starbucks", "around"]}
+{"tags": [0, 0, 0, 14, 16], "tokens": ["are", "there", "any", "steak", "houses"]}
+{"tags": [0, 0, 0, 3, 0, 0, 5, 6, 10, 11, 11, 11], "tokens": ["are", "there", "any", "stylish", "restaurants", "in", "beacon", "hill", "open", "after", "2", "am"]}
+{"tags": [0, 0, 0, 0, 0, 0, 14, 0, 5, 6, 6], "tokens": ["are", "there", "any", "suggestions", "for", "a", "vegetarian", "restaurant", "south", "of", "here"]}
+{"tags": [0, 0, 0, 14, 0, 5, 6], "tokens": ["are", "there", "any", "suishi", "places", "near", "hear"]}
+{"tags": [0, 0, 0, 14, 16, 0, 5, 6], "tokens": ["are", "there", "any", "sushi", "bars", "near", "central", "park"]}
+{"tags": [0, 0, 0, 14, 16, 5, 6, 6], "tokens": ["are", "there", "any", "sushi", "bars", "within", "10", "miles"]}
+{"tags": [0, 0, 0, 14, 0, 5, 6], "tokens": ["are", "there", "any", "sushi", "places", "in", "town"]}
+{"tags": [0, 0, 0, 12, 0, 0, 5, 6, 0, 0, 10, 11, 11], "tokens": ["are", "there", "any", "sushi", "restaurants", "in", "my", "area", "that", "are", "open", "for", "lunch"]}
+{"tags": [0, 0, 0, 14, 0, 0, 3, 4, 5], "tokens": ["are", "there", "any", "sushi", "restaurants", "with", "take", "out", "nearby"]}
+{"tags": [0, 0, 0, 7, 8, 5, 6], "tokens": ["are", "there", "any", "taco", "bells", "close", "by"]}
+{"tags": [0, 0, 0, 7, 8, 0, 5, 6], "tokens": ["are", "there", "any", "taco", "bells", "in", "new", "jersey"]}
+{"tags": [0, 0, 0, 7, 8, 0, 5, 6], "tokens": ["are", "there", "any", "taco", "bells", "on", "my", "route"]}
+{"tags": [0, 0, 0, 14, 16, 5], "tokens": ["are", "there", "any", "tapas", "bars", "nearby"]}
+{"tags": [0, 0, 0, 14, 0, 5, 6, 6, 6, 6, 6, 6], "tokens": ["are", "there", "any", "thai", "places", "within", "five", "miles", "of", "my", "current", "location"]}
+{"tags": [0, 0, 0, 14, 0, 0, 5], "tokens": ["are", "there", "any", "thai", "restaurants", "in", "germantown"]}
+{"tags": [0, 0, 0, 14, 0, 5, 6, 6], "tokens": ["are", "there", "any", "thai", "restaurants", "in", "the", "area"]}
+{"tags": [0, 0, 0, 3, 0, 5], "tokens": ["are", "there", "any", "theme", "restaurant", "downtown"]}
+{"tags": [0, 0, 0, 7, 0, 5, 6, 6, 0, 0, 0, 3, 4, 4], "tokens": ["are", "there", "any", "tomachhios", "locations", "within", "five", "miles", "that", "have", "a", "great", "patio", "setting"]}
+{"tags": [0, 0, 0, 3, 4, 4, 0], "tokens": ["are", "there", "any", "tourist", "type", "sightseeing", "restaurants"]}
+{"tags": [0, 0, 0, 0, 3, 4, 0, 0, 0, 14], "tokens": ["are", "there", "any", "upscale", "non", "smoking", "places", "that", "have", "halal"]}
+{"tags": [0, 0, 0, 14, 16, 5, 6, 6], "tokens": ["are", "there", "any", "vegan", "diners", "in", "this", "area"]}
+{"tags": [0, 0, 0, 14, 0, 14, 0, 5, 6, 0, 0, 0, 12, 0, 12, 13, 0, 0, 12, 13], "tokens": ["are", "there", "any", "vegan", "or", "vegetarian", "restaurants", "around", "here", "that", "cook", "with", "fake", "and", "substitute", "meats", "other", "than", "boca", "burgers"]}
+{"tags": [0, 0, 0, 14, 0, 3, 5, 6, 6], "tokens": ["are", "there", "any", "vegan", "restaurant", "bars", "near", "the", "area"]}
+{"tags": [0, 0, 0, 14, 0, 5, 6, 0, 1, 2], "tokens": ["are", "there", "any", "vegan", "restaurants", "close", "by", "featuring", "great", "service"]}
+{"tags": [0, 0, 0, 14, 0, 0, 0, 5], "tokens": ["are", "there", "any", "vegan", "restaurants", "in", "this", "town"]}
+{"tags": [0, 0, 0, 14, 0, 0, 0, 0, 10, 11, 11], "tokens": ["are", "there", "any", "vegan", "restaurants", "that", "are", "open", "after", "9", "p"]}
+{"tags": [0, 0, 0, 14, 16, 0, 5], "tokens": ["are", "there", "any", "vegetarian", "indian", "places", "nearby"]}
+{"tags": [0, 0, 0, 14, 0, 5, 6, 6], "tokens": ["are", "there", "any", "vegetarian", "restaurants", "near", "time", "square"]}
+{"tags": [0, 0, 0, 14, 0, 0, 0, 10, 11, 11], "tokens": ["are", "there", "any", "vegetarian", "restaurants", "that", "are", "open", "til", "midnight"]}
+{"tags": [0, 0, 0, 14, 0, 5, 6, 6], "tokens": ["are", "there", "any", "vegeterian", "restaurants", "in", "the", "area"]}
+{"tags": [0, 0, 0, 14, 5, 6, 6], "tokens": ["are", "there", "any", "vietnamese", "places", "around", "here"]}
+{"tags": [0, 0, 0, 14, 0, 5, 6, 6], "tokens": ["are", "there", "any", "vietnamese", "restaurants", "within", "10", "miles"]}
+{"tags": [0, 0, 0, 3, 4, 0, 0, 0, 10, 11, 11, 11], "tokens": ["are", "there", "any", "waterfront", "dining", "spots", "that", "is", "open", "before", "12", "a"]}
+{"tags": [0, 0, 0, 5, 0, 0, 0, 12, 0, 5, 6, 6], "tokens": ["are", "there", "any", "waterfront", "restaurants", "that", "serve", "sausage", "in", "post", "office", "square"]}
+{"tags": [0, 0, 0, 7, 0, 5, 6], "tokens": ["are", "there", "any", "wendys", "on", "my", "route"]}
+{"tags": [0, 0, 0, 7, 5, 6, 6, 0, 0], "tokens": ["are", "there", "any", "wendys", "within", "10", "miles", "of", "me"]}
+{"tags": [0, 0, 0, 7, 5, 6, 6, 0, 0], "tokens": ["are", "there", "any", "wendys", "within", "5", "miles", "of", "me"]}
+{"tags": [0, 0, 0, 14, 16, 10, 5, 6, 6], "tokens": ["are", "there", "are", "sushi", "bars", "open", "within", "ten", "miles"]}
+{"tags": [0, 0, 1, 2, 0, 5, 6, 6], "tokens": ["are", "there", "four", "star", "restaurants", "in", "the", "area"]}
+{"tags": [0, 0, 5, 0], "tokens": ["are", "there", "nearby", "restaurants"]}
+{"tags": [0, 0, 3, 0, 10, 11, 11, 11, 0, 7, 8, 8], "tokens": ["are", "there", "reservations", "available", "tonight", "for", "7", "pm", "at", "la", "belle", "vie"]}
+{"tags": [0, 0, 0, 5, 0, 0, 9], "tokens": ["are", "there", "restaurants", "nearby", "that", "are", "cheap"]}
+{"tags": [0, 0, 14, 5], "tokens": ["are", "there", "steakhouses", "nearby"]}
+{"tags": [0, 0, 14, 0, 0, 0, 10, 11, 11], "tokens": ["are", "there", "tapas", "places", "that", "are", "open", "right", "now"]}
+{"tags": [0, 0, 0, 14, 0, 5, 6, 6, 6], "tokens": ["are", "they", "any", "italian", "restaurants", "between", "home", "and", "work"]}
+{"tags": [0, 0, 5, 0, 0, 0, 0, 0, 1, 12, 13, 13, 13], "tokens": ["are", "we", "near", "a", "place", "to", "get", "a", "good", "bowl", "of", "southern", "grits"]}
+{"tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 4, 4, 4], "tokens": ["are", "you", "able", "to", "find", "a", "restaurant", "that", "offers", "free", "refills", "on", "soda"]}
+{"tags": [0, 0, 0, 0, 0, 0, 0, 0, 1, 2, 2], "tokens": ["are", "you", "able", "to", "tell", "me", "a", "restaurants", "health", "score", "rating"]}
+{"tags": [0, 0, 0, 0, 7, 5], "tokens": ["are", "you", "showing", "any", "wendys", "nearby"]}
+{"tags": [5, 0], "tokens": ["area", "restaurants"]}
+{"tags": [0, 0, 0, 0, 0, 0, 0, 0, 9, 0], "tokens": ["arrange", "my", "most", "frequented", "diners", "in", "terms", "of", "average", "price"]}
+{"tags": [14], "tokens": ["asian"]}
+{"tags": [14, 5, 6, 6], "tokens": ["asian", "by", "the", "river"]}
+{"tags": [14, 0, 5, 6, 6], "tokens": ["asian", "specialty", "in", "my", "town"]}
+{"tags": [0, 0, 0, 0, 7, 10], "tokens": ["at", "what", "time", "does", "dennys", "open"]}
+{"tags": [0, 0, 0, 0, 7, 8, 10], "tokens": ["at", "what", "time", "does", "johnny", "rockets", "open"]}
+{"tags": [0, 0, 0, 0, 7, 0], "tokens": ["at", "what", "time", "does", "marlenes", "close"]}
+{"tags": [0, 0, 10, 0, 7, 8, 0, 5, 6, 10], "tokens": ["at", "what", "times", "does", "pizzeria", "uno", "on", "elm", "street", "open"]}
+{"tags": [0, 0, 0, 0, 0, 0, 14, 16, 16], "tokens": ["at", "which", "restaurant", "can", "i", "eat", "breakfast", "for", "dinner"]}
+{"tags": [0, 0, 0, 0, 0, 0, 0, 1, 14], "tokens": ["at", "which", "restaurant", "can", "i", "eat", "some", "good", "seafood"]}
+{"tags": [0, 0, 0, 0, 0, 10, 11, 11], "tokens": ["at", "which", "restaurants", "can", "eat", "before", "7", "am"]}
+{"tags": [0, 0, 0, 0, 0, 3, 4], "tokens": ["at", "which", "restaurants", "can", "i", "eat", "outside"]}
+{"tags": [0, 0, 0, 0, 0, 0, 1, 14, 0, 5, 6, 6], "tokens": ["baby", "can", "you", "find", "me", "a", "good", "mexican", "restaurant", "in", "the", "area"]}
+{"tags": [14, 0], "tokens": ["ballpark", "dining"]}
+{"tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 2, 0, 5, 6, 6, 0, 0, 14, 16, 0, 0], "tokens": ["based", "on", "local", "or", "community", "reviews", "what", "is", "the", "highest", "rated", "restaurant", "within", "15", "miles", "that", "serves", "home", "cooked", "style", "meals"]}
+{"tags": [14, 16, 5, 6], "tokens": ["bbq", "joint", "in", "town"]}
+{"tags": [12, 13, 0, 12, 3, 4], "tokens": ["bbq", "ribs", "and", "beer", "sports", "bar"]}
+{"tags": [14, 16, 16, 16], "tokens": ["beer", "and", "pub", "grub"]}
+{"tags": [0, 0, 0, 0, 10, 0, 0, 5, 6], "tokens": ["begin", "with", "the", "most", "frequented", "eateries", "in", "san", "diego"]}
+{"tags": [1, 14, 16, 12], "tokens": ["best", "authentic", "mexican", "chimichangas"]}
+{"tags": [1, 2, 12, 5, 6], "tokens": ["best", "rated", "donuts", "in", "town"]}
+{"tags": [7, 8, 5, 6, 6, 6], "tokens": ["beverly", "burgers", "closest", "to", "my", "area"]}
+{"tags": [0, 0, 0, 0, 12], "tokens": ["bitch", "i", "need", "a", "sandwich"]}
+{"tags": [0, 0, 0, 0, 0, 0, 0, 10, 11, 0, 7, 0], "tokens": ["book", "me", "a", "dinner", "for", "two", "at", "700", "tonight", "at", "lecooks", "please"]}
+{"tags": [0, 0, 0, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0], "tokens": ["book", "me", "a", "table", "for", "1", "at", "the", "closest", "place", "that", "recently", "got", "a", "high", "rating", "for", "their", "food"]}
+{"tags": [10, 0, 10, 0], "tokens": ["breakfast", "and", "lunch", "resturants"]}
+{"tags": [10, 0], "tokens": ["breakfast", "spot"]}
+{"tags": [10, 0, 0, 3], "tokens": ["breakfast", "with", "the", "kids"]}
+{"tags": [14], "tokens": ["brunch"]}
+{"tags": [3], "tokens": ["buffet"]}
+{"tags": [14, 5, 6], "tokens": ["buffet", "reviews", "nearest"]}
+{"tags": [3, 5], "tokens": ["buffets", "nearest"]}
+{"tags": [14, 16], "tokens": ["burger", "joint"]}
+{"tags": [14, 16, 0, 0, 3], "tokens": ["burger", "joint", "that", "takes", "mastercard"]}
+{"tags": [7, 8, 10, 5], "tokens": ["burger", "king", "hours", "nearby"]}
+{"tags": [7, 8, 0], "tokens": ["burger", "king", "resturant"]}
+{"tags": [12, 0, 5, 6, 6], "tokens": ["burrito", "resturant", "near", "my", "location"]}
+{"tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 12, 13, 13], "tokens": ["by", "helping", "me", "find", "a", "place", "to", "satiisfy", "my", "craving", "for", "skillet", "fried", "chicken"]}
+{"tags": [0, 7], "tokens": ["call", "applebees"]}
+{"tags": [0, 7, 0, 5], "tokens": ["call", "bouchon", "in", "napa"]}
+{"tags": [0, 7, 8, 0, 5], "tokens": ["call", "golden", "corral", "in", "sacramento"]}
+{"tags": [0, 7, 8], "tokens": ["call", "hometown", "buffet"]}
+{"tags": [0, 7], "tokens": ["call", "mcdonalds"]}
+{"tags": [0, 7, 0, 5, 0, 0], "tokens": ["call", "ohgane", "in", "oakland", "for", "me"]}
+{"tags": [0, 7, 0, 5], "tokens": ["call", "roys", "in", "oahu"]}
+{"tags": [0, 7, 8], "tokens": ["call", "sonic", "burger"]}
+{"tags": [0, 0, 5, 7, 0, 0], "tokens": ["call", "the", "closest", "applebees", "for", "me"]}
+{"tags": [0, 0, 5, 14, 0], "tokens": ["call", "the", "closest", "chinese", "restaurant"]}
+{"tags": [0, 0, 5, 14, 0], "tokens": ["call", "the", "closest", "filipino", "restaurant"]}
+{"tags": [0, 0, 5, 14, 16, 16, 16], "tokens": ["call", "the", "closest", "hong", "kong", "style", "cafe"]}
+{"tags": [0, 0, 7, 8, 5, 6, 6, 6, 0, 3, 4], "tokens": ["call", "the", "pizza", "hut", "closest", "to", "my", "house", "that", "offers", "delivery"]}
+{"tags": [0, 0, 0, 0, 0, 0, 7, 0, 5], "tokens": ["call", "to", "make", "a", "reservation", "for", "bouchon", "in", "napa"]}
+{"tags": [0, 0, 0, 0, 3, 4, 4, 0, 0, 5, 14, 16, 0], "tokens": ["can", "i", "bring", "a", "seeing", "eye", "dog", "to", "the", "nearest", "fast", "food", "restaurant"]}
+{"tags": [0, 0, 0, 0, 3, 0, 7, 8, 8, 10, 11, 11], "tokens": ["can", "i", "bring", "my", "child", "to", "fox", "and", "hound", "after", "9", "pm"]}
+{"tags": [0, 0, 3, 4, 4, 4, 4, 4], "tokens": ["can", "i", "bring", "my", "dog", "on", "the", "patio"]}
+{"tags": [0, 0, 0, 0, 3, 0, 0, 14, 0], "tokens": ["can", "i", "bring", "my", "kids", "to", "the", "cuban", "restaurant"]}
+{"tags": [0, 0, 0, 0, 0, 0, 0, 0, 10, 0, 7], "tokens": ["can", "i", "bring", "my", "kids", "with", "me", "to", "dinner", "at", "lecooks"]}
+{"tags": [0, 0, 3, 4, 4, 4, 0, 7, 8], "tokens": ["can", "i", "bring", "my", "own", "beer", "to", "lincolns", "landing"]}
+{"tags": [0, 0, 0, 0, 3, 4, 0, 0, 14, 0, 0, 5, 6, 6], "tokens": ["can", "i", "bring", "my", "seven", "children", "to", "the", "italian", "restaurant", "on", "5", "th", "street"]}
+{"tags": [0, 0, 3, 0, 3], "tokens": ["can", "i", "bring", "my", "stroller"]}
+{"tags": [0, 0, 0, 0, 0, 3, 0, 7, 8, 8], "tokens": ["can", "i", "eat", "at", "the", "bar", "at", "cj", "gourmet", "pizza"]}
+{"tags": [0, 0, 3, 4, 0, 7, 8], "tokens": ["can", "i", "eat", "outdoors", "at", "dinosaur", "bbq"]}
+{"tags": [0, 0, 0, 0, 14, 0, 5, 6, 6], "tokens": ["can", "i", "find", "a", "german", "restaurant", "near", "main", "str"]}
+{"tags": [0, 0, 0, 0, 12, 13, 10, 11], "tokens": ["can", "i", "find", "a", "noodle", "bar", "after", "midnight"]}
+{"tags": [0, 0, 0, 0, 0, 0, 0, 1, 12, 13], "tokens": ["can", "i", "find", "a", "place", "that", "serves", "excellent", "clam", "sauce"]}
+{"tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 14, 0, 0, 0, 0, 14, 0], "tokens": ["can", "i", "find", "a", "restaurant", "that", "serves", "a", "few", "vegetarian", "entrees", "as", "well", "as", "meat", "options"]}
+{"tags": [0, 0, 0, 9, 14, 0, 5, 6, 6], "tokens": ["can", "i", "find", "cheap", "sushi", "someplace", "not", "too", "far"]}
+{"tags": [0, 0, 0, 12, 13, 13, 0, 5, 6], "tokens": ["can", "i", "find", "chicken", "and", "waffles", "in", "stockton", "ca"]}
+{"tags": [0, 0, 0, 12, 0, 10, 0, 5], "tokens": ["can", "i", "find", "sushi", "at", "midnight", "in", "berkeley"]}
+{"tags": [0, 0, 0, 7, 8, 5, 6], "tokens": ["can", "i", "find", "tgif", "fridays", "near", "me"]}
+{"tags": [0, 0, 0, 0, 7, 0, 0, 5, 6], "tokens": ["can", "i", "finda", "a", "cinnabon", "in", "the", "volusia", "mall"]}
+{"tags": [0, 0, 0, 0, 12, 13, 0, 5, 6], "tokens": ["can", "i", "get", "a", "cheese", "bourek", "anywhere", "around", "here"]}
+{"tags": [0, 0, 0, 0, 12, 0, 0, 0, 9, 15, 15], "tokens": ["can", "i", "get", "a", "cheeseburger", "anywhere", "close", "for", "under", "a", "dollar"]}
+{"tags": [0, 0, 0, 0, 12, 13, 0, 7], "tokens": ["can", "i", "get", "a", "fish", "sandwich", "at", "jacks"]}
+{"tags": [0, 0, 0, 0, 1, 12, 13, 13, 13, 13, 5, 6, 6, 6, 6], "tokens": ["can", "i", "get", "a", "good", "home", "made", "burger", "and", "fries", "within", "ten", "miles", "of", "here"]}
+{"tags": [0, 0, 0, 0, 1, 14, 0], "tokens": ["can", "i", "get", "a", "good", "snack", "somewhere"]}
+{"tags": [0, 0, 0, 0, 1, 12, 0, 0, 7, 8], "tokens": ["can", "i", "get", "a", "good", "steak", "at", "the", "hampton", "diner"]}
+{"tags": [0, 0, 0, 0, 0, 0, 7, 0, 0, 0, 5], "tokens": ["can", "i", "get", "a", "list", "of", "chichis", "that", "are", "in", "baltimore"]}
+{"tags": [0, 0, 0, 0, 0, 0, 1, 2, 2, 0, 0, 5, 6, 6, 6], "tokens": ["can", "i", "get", "a", "list", "of", "high", "zagat", "rated", "restaurants", "in", "10", "miles", "of", "here"]}
+{"tags": [0, 0, 0, 0, 0, 0, 12, 0, 5, 6, 6], "tokens": ["can", "i", "get", "a", "list", "of", "pizza", "places", "within", "walking", "distance"]}
+{"tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 10, 11, 0, 0, 12], "tokens": ["can", "i", "get", "a", "list", "of", "restaurants", "that", "are", "still", "open", "that", "serve", "pancakes"]}
+{"tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 6, 6, 6, 6], "tokens": ["can", "i", "get", "a", "list", "of", "restaurants", "that", "are", "within", "a", "minute", "of", "here"]}
+{"tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 4, 4, 4, 0, 5, 6], "tokens": ["can", "i", "get", "a", "list", "of", "restaurants", "that", "have", "a", "kids", "eat", "free", "special", "in", "5", "miles"]}
+{"tags": [0, 0, 0, 0, 0, 0, 14, 0], "tokens": ["can", "i", "get", "a", "listing", "for", "american", "cuisine"]}
+{"tags": [0, 0, 0, 0, 3, 0, 0, 0, 3, 4, 0, 3, 4], "tokens": ["can", "i", "get", "a", "partying", "restaurant", "to", "serve", "17", "members", "with", "outdoor", "dining"]}
+{"tags": [0, 0, 0, 0, 12, 5, 6], "tokens": ["can", "i", "get", "a", "pizza", "around", "here"]}
+{"tags": [0, 0, 0, 0, 3, 0, 0, 14, 0, 0, 10, 11, 11, 11], "tokens": ["can", "i", "get", "a", "reservation", "at", "a", "french", "restaurant", "for", "7", "30", "pm", "tonight"]}
+{"tags": [0, 0, 0, 0, 0, 0, 7, 8, 0, 0, 0, 0], "tokens": ["can", "i", "get", "a", "reservation", "at", "bella", "napoli", "or", "are", "they", "full"]}
+{"tags": [0, 0, 0, 0, 0, 0, 12, 13, 5, 6, 6], "tokens": ["can", "i", "get", "a", "restaurant", "serving", "birthday", "cakes", "along", "135", "n"]}
+{"tags": [0, 0, 0, 3, 4, 10, 11, 11, 0, 7, 8, 8, 8], "tokens": ["can", "i", "get", "carry", "out", "after", "12", "pm", "at", "1790", "restaurant", "and", "tavern"]}
+{"tags": [0, 0, 0, 3, 0, 7], "tokens": ["can", "i", "get", "carryout", "at", "obriens"]}
+{"tags": [0, 0, 0, 0, 0, 0, 14, 0], "tokens": ["can", "i", "get", "directions", "to", "a", "mexican", "restaurant"]}
+{"tags": [0, 0, 0, 0, 0, 0, 5, 14], "tokens": ["can", "i", "get", "directions", "to", "the", "closest", "diner"]}
+{"tags": [0, 0, 0, 0, 0, 0, 5, 7], "tokens": ["can", "i", "get", "directions", "to", "the", "nearest", "dennys"]}
+{"tags": [0, 0, 0, 0, 0, 0, 5, 7], "tokens": ["can", "i", "get", "directions", "to", "the", "nearest", "mcdonalds"]}
+{"tags": [0, 0, 0, 12, 13, 3, 4, 0, 5, 6], "tokens": ["can", "i", "get", "polish", "sausage", "take", "out", "anywhere", "around", "here"]}
+{"tags": [0, 0, 0, 0, 14, 0], "tokens": ["can", "i", "get", "some", "barbeque", "now"]}
+{"tags": [0, 0, 0, 12, 13, 0, 3, 4, 5, 0, 10, 11], "tokens": ["can", "i", "get", "swedish", "meatballs", "for", "take", "out", "anywhere", "at", "2", "am"]}
+{"tags": [0, 0, 0, 3, 4, 0, 7], "tokens": ["can", "i", "get", "take", "out", "at", "changs"]}
+{"tags": [0, 0, 0, 0, 0, 0, 7, 8], "tokens": ["can", "i", "get", "the", "menu", "for", "tims", "restaurant"]}
+{"tags": [0, 0, 0, 0, 5, 0, 0, 0, 12, 13], "tokens": ["can", "i", "get", "the", "nearest", "restaurant", "that", "serves", "lobster", "sandwiches"]}
+{"tags": [0, 0, 0, 0, 5, 14, 0, 0, 0, 0, 5, 6, 6], "tokens": ["can", "i", "get", "the", "nearest", "soul", "food", "joint", "in", "a", "five", "mile", "radius"]}
+{"tags": [0, 0, 0, 0, 0, 0, 7], "tokens": ["can", "i", "get", "the", "number", "to", "bertuccis"]}
+{"tags": [0, 0, 0, 0, 0, 0, 7], "tokens": ["can", "i", "get", "the", "number", "to", "dennys"]}
+{"tags": [0, 0, 0, 0, 0, 0, 0, 7], "tokens": ["can", "i", "get", "the", "phone", "number", "for", "applebees"]}
+{"tags": [0, 0, 0, 0, 0, 0, 0, 0, 5, 1, 2, 0], "tokens": ["can", "i", "get", "the", "phone", "number", "for", "the", "nearest", "five", "star", "restaurant"]}
+{"tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 4, 0, 0, 12, 13, 13], "tokens": ["can", "i", "get", "the", "phone", "number", "of", "a", "restaurant", "for", "carry", "out", "order", "of", "spicy", "buffalo", "wings"]}
+{"tags": [0, 0, 0, 0, 0, 0, 0, 0, 5, 6, 6, 0, 10, 11, 11], "tokens": ["can", "i", "get", "to", "a", "place", "that", "is", "within", "five", "minutes", "and", "open", "before", "noon"]}
+{"tags": [0, 0, 0, 0, 0, 7, 8, 8, 0, 5, 6, 6, 6], "tokens": ["can", "i", "get", "to", "the", "ashland", "pizza", "palace", "in", "5", "minutes", "or", "less"]}
+{"tags": [0, 0, 0, 0, 0, 14, 0, 0, 3], "tokens": ["can", "i", "go", "to", "a", "italian", "restaurant", "with", "pizza"]}
+{"tags": [0, 0, 0, 0, 3, 4, 0, 7, 8, 0, 5], "tokens": ["can", "i", "have", "a", "business", "dinner", "at", "sevans", "bakery", "in", "chinatown"]}
+{"tags": [0, 0, 0, 0, 0, 0, 5, 3, 0], "tokens": ["can", "i", "have", "a", "list", "of", "nearby", "carryout", "restaurants"]}
+{"tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 14, 0], "tokens": ["can", "i", "have", "a", "list", "of", "restaurants", "that", "serve", "italian", "food"]}
+{"tags": [0, 0, 0, 0, 9, 0, 14, 0], "tokens": ["can", "i", "have", "a", "moderate", "priced", "japanese", "restaurant"]}
+{"tags": [0, 0, 0, 0, 0, 0, 0, 14, 3, 4], "tokens": ["can", "i", "have", "a", "phone", "number", "to", "mexican", "take", "out"]}
+{"tags": [0, 0, 0, 0, 0, 7, 8], "tokens": ["can", "i", "have", "directions", "to", "mc", "donalds"]}
+{"tags": [0, 0, 0, 0, 0, 7], "tokens": ["can", "i", "have", "directions", "to", "mcdonalds"]}
+{"tags": [0, 0, 0, 0, 0, 0, 5, 7], "tokens": ["can", "i", "have", "directions", "to", "the", "closest", "mcdonalds"]}
+{"tags": [0, 0, 0, 0, 0, 7], "tokens": ["can", "i", "have", "directions", "to", "wendys"]}
+{"tags": [0, 0, 0, 0, 0, 0, 14, 16, 0, 5, 6, 6], "tokens": ["can", "i", "have", "phone", "numbers", "to", "fine", "dining", "locations", "in", "this", "area"]}
+{"tags": [0, 0, 0, 0, 12, 13, 0, 10], "tokens": ["can", "i", "have", "some", "fried", "chicken", "for", "lunch"]}
+{"tags": [0, 0, 0, 0, 0, 0, 0, 5, 7], "tokens": ["can", "i", "have", "the", "location", "of", "the", "closest", "mcdonalds"]}
+{"tags": [0, 0, 0, 0, 0, 0, 0, 14, 0], "tokens": ["can", "i", "have", "the", "menu", "of", "the", "sushi", "place"]}
+{"tags": [0, 0, 0, 0, 0, 0, 0, 7, 8], "tokens": ["can", "i", "have", "the", "phone", "number", "for", "dominos", "pizza"]}
+{"tags": [0, 0, 0, 0, 0, 0, 0, 7, 0, 5, 6], "tokens": ["can", "i", "have", "the", "phone", "number", "to", "applebees", "on", "atlantic", "avenue"]}
+{"tags": [0, 0, 0, 0, 0, 0, 0, 0, 5, 7], "tokens": ["can", "i", "have", "the", "phone", "number", "to", "the", "nearest", "outback"]}
+{"tags": [0, 0, 0, 0, 0, 0, 0, 5, 14, 0], "tokens": ["can", "i", "have", "the", "route", "to", "the", "nearest", "taco", "place"]}
+{"tags": [0, 0, 0, 0, 0, 0, 0, 0, 7], "tokens": ["can", "i", "hold", "my", "daughters", "birthday", "party", "at", "charlies"]}
+{"tags": [0, 0, 0, 0, 0, 12, 0, 0, 0], "tokens": ["can", "i", "just", "get", "a", "burger", "at", "this", "restaurant"]}
+{"tags": [0, 0, 0, 0, 0, 0, 7, 8, 8, 8, 0, 0, 0], "tokens": ["can", "i", "make", "a", "reservation", "for", "little", "q", "hotpot", "restaurant", "on", "valentines", "day"]}
+{"tags": [0, 0, 0, 0, 3, 4, 0, 0, 5, 0, 0, 7, 8], "tokens": ["can", "i", "make", "an", "online", "reservation", "at", "a", "nearby", "place", "called", "cafe", "mirror"]}
+{"tags": [0, 0, 0, 0, 0], "tokens": ["can", "i", "make", "online", "reservations"]}
+{"tags": [0, 0, 0, 3, 4, 0, 7, 8, 8, 0, 10], "tokens": ["can", "i", "make", "online", "reservations", "for", "delicious", "paisas", "bakery", "for", "midnight"]}
+{"tags": [0, 0, 0, 3, 0, 0, 7, 8, 3], "tokens": ["can", "i", "make", "reservations", "for", "the", "outback", "steakhouse", "online"]}
+{"tags": [0, 0, 0, 3, 4, 4, 0, 0, 7, 8, 0], "tokens": ["can", "i", "make", "reservations", "on", "line", "for", "new", "ho", "toy", "restaurant"]}
+{"tags": [0, 0, 10, 3, 0, 7, 8], "tokens": ["can", "i", "order", "delivery", "from", "nikos", "diner"]}
+{"tags": [0, 0, 0, 3, 4, 0, 7, 8, 8], "tokens": ["can", "i", "order", "take", "out", "at", "nikos", "greek", "cafe"]}
+{"tags": [0, 0, 0, 0, 0, 0, 0, 0], "tokens": ["can", "i", "paid", "with", "a", "credit", "card", "here"]}
+{"tags": [0, 0, 0, 0, 0, 0, 7], "tokens": ["can", "i", "pay", "by", "check", "at", "mcdonalds"]}
+{"tags": [0, 0, 3, 4, 4, 4, 0, 7], "tokens": ["can", "i", "pay", "with", "a", "check", "at", "griffins"]}
+{"tags": [0, 0, 3, 0, 7, 8, 8, 8], "tokens": ["can", "i", "smoke", "in", "maxs", "bar", "and", "grill"]}
+{"tags": [0, 0, 0, 0, 7, 8, 8, 8], "tokens": ["can", "i", "smoke", "in", "oconnors", "pub", "and", "grill"]}
+{"tags": [0, 0, 3, 4, 0, 7], "tokens": ["can", "i", "split", "entrees", "at", "abuelos"]}
+{"tags": [0, 0, 0, 0, 0, 14, 0, 0, 0, 0, 10, 11, 11, 11], "tokens": ["can", "i", "still", "find", "any", "chinese", "food", "restaurants", "that", "are", "still", "open", "right", "now"]}
+{"tags": [0, 0, 0, 0, 3, 4, 0, 7, 8, 8], "tokens": ["can", "i", "use", "a", "visa", "card", "at", "romys", "shrimp", "shack"]}
+{"tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 7], "tokens": ["can", "i", "use", "my", "20", "percent", "off", "coupon", "at", "mercys"]}
+{"tags": [0, 0, 0, 0, 3, 4, 0, 0, 14, 16, 16], "tokens": ["can", "i", "use", "my", "credit", "card", "at", "the", "greek", "lunch", "truck"]}
+{"tags": [0, 0, 3, 4, 0, 7, 8], "tokens": ["can", "i", "wear", "jeans", "at", "cheesecake", "factory"]}
+{"tags": [0, 7, 8, 8, 3, 4, 4, 4, 4], "tokens": ["can", "ol", "heidleburg", "restaurant", "accept", "a", "party", "of", "12"]}
+{"tags": [0, 0, 0, 0, 0, 0, 7, 0, 5, 6], "tokens": ["can", "you", "check", "whether", "theres", "a", "subway", "in", "this", "town"]}
+{"tags": [0, 0, 3, 4, 4, 4, 0, 7, 8, 8], "tokens": ["can", "you", "dine", "in", "the", "bar", "at", "cjs", "gourmet", "pizza"]}
+{"tags": [0, 0, 0, 0, 9, 0, 0, 3, 0, 7, 8, 8], "tokens": ["can", "you", "dine", "very", "cheaply", "at", "the", "bar", "at", "ichiban", "steak", "house"]}
+{"tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 4, 0, 5, 6, 6], "tokens": ["can", "you", "direct", "me", "to", "a", "few", "high", "end", "celebrity", "hangout", "restaurants", "in", "the", "area"]}
+{"tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 12, 13, 13, 13, 13, 13, 13, 13], "tokens": ["can", "you", "direct", "me", "to", "a", "restaurant", "that", "sells", "bottles", "of", "wine", "for", "you", "to", "take", "home"]}
+{"tags": [0, 0, 0, 0, 0, 0, 0, 0, 3, 4], "tokens": ["can", "you", "direct", "me", "to", "a", "restaurant", "with", "no", "smoking"]}
+{"tags": [0, 0, 0, 0, 0, 0, 9, 0, 0, 5], "tokens": ["can", "you", "direct", "me", "to", "an", "affordable", "place", "in", "southborough"]}
+{"tags": [0, 0, 0, 0, 0, 0, 5, 14], "tokens": ["can", "you", "direct", "me", "to", "the", "closest", "pizzeria"]}
+{"tags": [0, 0, 0, 0, 0, 0, 5, 7, 8, 8, 8], "tokens": ["can", "you", "direct", "me", "to", "the", "nearest", "needham", "house", "of", "pizza"]}
+{"tags": [0, 0, 0, 0, 14, 5, 6, 6], "tokens": ["can", "you", "find", "a", "bakery", "along", "my", "route"]}
+{"tags": [0, 0, 0, 0, 3, 0], "tokens": ["can", "you", "find", "a", "buffet", "nearby"]}
+{"tags": [0, 0, 0, 0, 14, 0], "tokens": ["can", "you", "find", "a", "chinese", "restaurant"]}
+{"tags": [0, 0, 0, 0, 14, 0, 0, 3, 4], "tokens": ["can", "you", "find", "a", "chinese", "restaurant", "with", "carry", "out"]}
+{"tags": [0, 0, 0, 0, 3, 0, 0, 5, 6, 0, 0, 14, 16], "tokens": ["can", "you", "find", "a", "comfortable", "place", "on", "shawsheen", "avenue", "that", "has", "fine", "dining"]}
+{"tags": [0, 0, 0, 0, 3, 4, 0, 0, 0], "tokens": ["can", "you", "find", "a", "family", "style", "restaurant", "for", "us"]}
+{"tags": [0, 0, 0, 0, 14, 16, 0, 0, 5, 6], "tokens": ["can", "you", "find", "a", "fast", "food", "place", "in", "one", "minute"]}
+{"tags": [0, 0, 0, 0, 14, 16, 0, 0, 0, 12, 13], "tokens": ["can", "you", "find", "a", "fast", "food", "place", "that", "serves", "healthy", "shakes"]}
+{"tags": [0, 0, 0, 0, 9, 15, 0, 0, 0, 0, 0, 7], "tokens": ["can", "you", "find", "a", "fine", "dining", "place", "for", "me", "called", "the", "cookhouse"]}
+{"tags": [0, 0, 0, 0, 1, 2, 0, 0, 0, 12, 5, 6], "tokens": ["can", "you", "find", "a", "good", "quality", "restaurant", "that", "has", "burgers", "close", "by"]}
+{"tags": [0, 0, 0, 0, 3, 0, 3, 0, 3, 4], "tokens": ["can", "you", "find", "a", "good", "restaurant", "for", "a", "childs", "birthday"]}
+{"tags": [0, 0, 0, 0, 14, 0, 0, 0, 10, 11], "tokens": ["can", "you", "find", "a", "greek", "restaurant", "thats", "open", "24", "hours"]}
+{"tags": [0, 0, 0, 0, 1, 2, 0, 0, 0, 10, 11, 11, 11], "tokens": ["can", "you", "find", "a", "highly", "rated", "restaurant", "that", "is", "open", "in", "the", "morning"]}
+{"tags": [0, 0, 0, 0, 3, 4, 0, 0, 9, 15, 15, 15, 15, 15, 15, 0, 0, 0, 1, 2, 2], "tokens": ["can", "you", "find", "a", "kid", "friendly", "restaurant", "with", "prices", "no", "more", "than", "15", "00", "per", "entree", "that", "is", "rated", "four", "stars"]}
+{"tags": [0, 0, 0, 0, 0, 0, 0, 5, 6, 0, 3, 4], "tokens": ["can", "you", "find", "a", "local", "hotspot", "on", "my", "route", "that", "features", "specials"]}
+{"tags": [0, 0, 0, 0, 3, 4, 0, 0, 0, 5, 6, 6], "tokens": ["can", "you", "find", "a", "locally", "owned", "restaurant", "in", "a", "three", "block", "radius"]}
+{"tags": [0, 0, 0, 0, 14, 3, 4, 0], "tokens": ["can", "you", "find", "a", "malaysian", "take", "out", "place"]}
+{"tags": [0, 0, 0, 0, 14, 0, 0, 3, 4, 0], "tokens": ["can", "you", "find", "a", "market", "that", "has", "prix", "fixe", "menus"]}
+{"tags": [0, 0, 0, 0, 14, 0], "tokens": ["can", "you", "find", "a", "mediterranean", "restaurant"]}
+{"tags": [0, 0, 0, 0, 14, 16], "tokens": ["can", "you", "find", "a", "mexican", "cafe"]}
+{"tags": [0, 0, 0, 0, 14, 0, 5, 6], "tokens": ["can", "you", "find", "a", "mexican", "restaurant", "near", "me"]}
+{"tags": [0, 0, 0, 0, 14, 0, 0, 0, 3, 12, 13, 3, 4, 4], "tokens": ["can", "you", "find", "a", "mexican", "restaurant", "where", "they", "make", "fresh", "guacamole", "at", "your", "table"]}
+{"tags": [0, 0, 0, 0, 7, 0, 0, 3], "tokens": ["can", "you", "find", "a", "monicas", "with", "a", "bar"]}
+{"tags": [0, 0, 0, 0, 12, 0], "tokens": ["can", "you", "find", "a", "pizza", "place"]}
+{"tags": [0, 0, 0, 0, 0, 0, 12, 0, 10, 11, 0, 9, 0], "tokens": ["can", "you", "find", "a", "place", "serving", "tofu", "at", "12", "pm", "with", "good", "prices"]}
+{"tags": [0, 0, 0, 0, 0, 0, 0, 0, 3, 4], "tokens": ["can", "you", "find", "a", "place", "that", "has", "a", "romantic", "stting"]}
+{"tags": [0, 0, 0, 0, 0, 0, 0, 3, 4], "tokens": ["can", "you", "find", "a", "place", "that", "is", "pet", "friendly"]}
+{"tags": [0, 0, 0, 0, 0, 0, 0, 12, 0, 3, 4, 5, 6, 6], "tokens": ["can", "you", "find", "a", "place", "that", "sells", "sangrias", "with", "valet", "parking", "within", "a", "mile"]}
+{"tags": [0, 0, 0, 0, 0, 0, 0, 12, 13], "tokens": ["can", "you", "find", "a", "place", "that", "serves", "french", "toast"]}
+{"tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 2, 0, 0, 12], "tokens": ["can", "you", "find", "a", "place", "to", "eat", "that", "has", "good", "reviews", "of", "their", "steak"]}
+{"tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 12, 13], "tokens": ["can", "you", "find", "a", "place", "to", "eat", "that", "serves", "sweet", "bread"]}
+{"tags": [0, 0, 0, 0, 0, 0, 0, 5, 6, 6, 6, 6, 0, 0, 12, 0, 10, 11], "tokens": ["can", "you", "find", "a", "place", "to", "eat", "within", "a", "twenty", "mile", "radius", "that", "serves", "wine", "at", "all", "hours"]}
+{"tags": [0, 0, 0, 0, 0, 0, 3, 4, 0, 0, 0, 14, 0, 0, 0, 9, 15, 0], "tokens": ["can", "you", "find", "a", "place", "to", "watch", "people", "where", "they", "serve", "cajun", "food", "for", "a", "somewhat", "high", "price"]}
+{"tags": [0, 0, 0, 0, 0, 0, 3, 4, 0, 0, 0, 0, 7, 8, 8, 5, 6], "tokens": ["can", "you", "find", "a", "place", "where", "famous", "people", "can", "be", "seen", "like", "stephen", "anthonys", "restaurant", "around", "here"]}
+{"tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 12, 0, 5, 6], "tokens": ["can", "you", "find", "a", "place", "where", "i", "can", "grab", "some", "drinks", "on", "my", "route"]}
+{"tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 4, 4, 4, 0, 0], "tokens": ["can", "you", "find", "a", "place", "where", "i", "can", "have", "dinner", "with", "a", "party", "of", "10", "people", "or", "more"]}
+{"tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 4, 4, 0, 0], "tokens": ["can", "you", "find", "a", "place", "where", "i", "will", "be", "allowed", "to", "smoke", "while", "eating"]}
+{"tags": [0, 0, 0, 0, 0, 0, 9, 0, 0, 0, 0, 7, 8], "tokens": ["can", "you", "find", "a", "place", "with", "moderately", "priced", "entrees", "such", "as", "kookoo", "cafe"]}
+{"tags": [0, 0, 0, 0, 0, 5, 6, 6, 0, 0, 0], "tokens": ["can", "you", "find", "a", "place", "within", "a", "mile", "of", "the", "house"]}
+{"tags": [0, 0, 0, 0, 0, 5, 6, 6, 0, 0, 5, 6], "tokens": ["can", "you", "find", "a", "restaurant", "around", "the", "theater", "located", "on", "fort", "myers"]}
+{"tags": [0, 0, 0, 0, 0, 0, 12, 13, 13, 0, 0, 0, 0, 0, 0, 3, 4], "tokens": ["can", "you", "find", "a", "restaurant", "featuring", "soy", "bean", "curd", "where", "i", "can", "dine", "in", "an", "historic", "setting"]}
+{"tags": [0, 0, 0, 0, 0, 5, 6, 6, 0, 12, 0, 0], "tokens": ["can", "you", "find", "a", "restaurant", "in", "this", "area", "where", "souvaki", "is", "served"]}
+{"tags": [0, 0, 0, 0, 0, 5, 6, 0, 0, 12], "tokens": ["can", "you", "find", "a", "restaurant", "near", "by", "that", "serves", "tapas"]}
+{"tags": [0, 0, 0, 0, 0, 5, 6, 0, 0, 14, 0], "tokens": ["can", "you", "find", "a", "restaurant", "near", "downtown", "that", "serves", "french", "cuisine"]}
+{"tags": [0, 0, 0, 0, 0, 0, 0, 5, 6, 0, 5, 0, 0, 3, 4], "tokens": ["can", "you", "find", "a", "restaurant", "near", "the", "theater", "district", "in", "billerica", "that", "offers", "huge", "portions"]}
+{"tags": [0, 0, 0, 0, 0, 0, 14, 0, 5, 6, 6], "tokens": ["can", "you", "find", "a", "restaurant", "serving", "chinese", "food", "within", "2", "miles"]}
+{"tags": [0, 0, 0, 0, 0, 0, 3, 4], "tokens": ["can", "you", "find", "a", "restaurant", "that", "excepts", "debit"]}
+{"tags": [0, 0, 0, 0, 0, 0, 0, 0, 3, 4, 0, 0, 0], "tokens": ["can", "you", "find", "a", "restaurant", "that", "has", "a", "play", "area", "for", "the", "kids"]}
+{"tags": [0, 0, 0, 0, 0, 0, 0, 3, 4, 0, 0, 5, 6, 6, 6, 6, 6, 6, 6, 6], "tokens": ["can", "you", "find", "a", "restaurant", "that", "has", "carry", "out", "and", "is", "not", "too", "far", "from", "8", "th", "and", "maple", "st"]}
+{"tags": [0, 0, 0, 0, 0, 0, 0, 12, 13, 10, 11, 11], "tokens": ["can", "you", "find", "a", "restaurant", "that", "offers", "chowder", "cuisine", "late", "at", "night"]}
+{"tags": [0, 0, 0, 0, 0, 0, 0, 14, 3], "tokens": ["can", "you", "find", "a", "restaurant", "that", "serves", "breakfast", "allday"]}
+{"tags": [0, 0, 0, 0, 3, 14, 0], "tokens": ["can", "you", "find", "a", "romantic", "afghan", "place"]}
+{"tags": [0, 0, 0, 0, 3, 0, 0, 0, 0, 3, 4], "tokens": ["can", "you", "find", "a", "romantic", "restaurant", "that", "has", "a", "dress", "code"]}
+{"tags": [0, 0, 0, 0, 14, 0, 0, 3, 4], "tokens": ["can", "you", "find", "a", "steak", "place", "with", "outdoor", "seating"]}
+{"tags": [0, 0, 0, 0, 14, 0, 3, 4, 0, 0, 0, 0, 10, 11, 11], "tokens": ["can", "you", "find", "a", "steakhouse", "that", "accepts", "reservations", "and", "make", "one", "for", "8", "00", "pm"]}
+{"tags": [0, 0, 0, 0, 7, 8, 5, 6, 6], "tokens": ["can", "you", "find", "a", "taco", "bell", "along", "my", "route"]}
+{"tags": [0, 0, 0, 0, 14, 16, 5, 6, 6], "tokens": ["can", "you", "find", "a", "vegan", "bakery", "within", "five", "miles"]}
+{"tags": [0, 0, 0, 0, 1, 2, 14, 0, 0, 3], "tokens": ["can", "you", "find", "a", "well", "rated", "japanese", "restaurant", "with", "parking"]}
+{"tags": [0, 0, 0, 0, 9, 14, 0], "tokens": ["can", "you", "find", "an", "affordable", "chinese", "restaurant"]}
+{"tags": [0, 0, 0, 0, 7, 0, 5, 6, 6], "tokens": ["can", "you", "find", "an", "applebees", "restaurant", "within", "5", "miles"]}
+{"tags": [0, 0, 0, 0, 3, 0, 0, 9, 15, 0, 0, 12], "tokens": ["can", "you", "find", "an", "elegant", "restaurant", "with", "slightly", "high", "prices", "for", "chowder"]}
+{"tags": [0, 0, 0, 0, 9, 7, 8, 8, 0, 0, 3, 4], "tokens": ["can", "you", "find", "an", "expensive", "martins", "home", "bakery", "with", "a", "parking", "lot"]}
+{"tags": [0, 0, 0, 0, 14, 0], "tokens": ["can", "you", "find", "an", "italian", "restaurant"]}
+{"tags": [0, 0, 0, 0, 14, 0, 5, 6, 6, 6, 0, 0, 3, 4, 4], "tokens": ["can", "you", "find", "an", "italian", "restaurant", "within", "1", "hour", "drive", "that", "does", "not", "require", "reservations"]}
+{"tags": [0, 0, 0, 0, 14, 0, 0, 5, 6, 0, 0, 9, 0], "tokens": ["can", "you", "find", "any", "chinese", "cuisine", "restaurants", "close", "by", "that", "have", "reasonable", "prices"]}
+{"tags": [0, 0, 0, 0, 0, 0, 7], "tokens": ["can", "you", "find", "any", "reviews", "on", "madelines"]}
+{"tags": [0, 0, 0, 7, 8, 0, 0, 0, 3, 4, 4, 4, 0, 0, 0, 9, 0], "tokens": ["can", "you", "find", "butterfields", "restaurant", "where", "i", "can", "sit", "at", "the", "bar", "and", "eat", "with", "fair", "prices"]}
+{"tags": [0, 0, 0, 5, 14, 16, 0], "tokens": ["can", "you", "find", "closest", "ice", "cream", "shop"]}
+{"tags": [0, 0, 0, 5, 7, 8], "tokens": ["can", "you", "find", "closest", "red", "robin"]}
+{"tags": [0, 0, 0, 14, 16, 5, 6], "tokens": ["can", "you", "find", "fast", "food", "near", "here"]}
+{"tags": [0, 0, 0, 5, 6, 6, 6, 0, 0, 0, 3], "tokens": ["can", "you", "find", "leoshe", "place", "around", "here", "that", "has", "a", "brewpub"]}
+{"tags": [0, 0, 0, 0, 0, 1, 2, 0], "tokens": ["can", "you", "find", "me", "a", "3", "star", "restaurant"]}
+{"tags": [0, 0, 0, 0, 0, 3, 0, 0, 3, 4], "tokens": ["can", "you", "find", "me", "a", "bar", "with", "a", "dining", "option"]}
+{"tags": [0, 0, 0, 0, 0, 14, 0, 0, 1, 2, 2], "tokens": ["can", "you", "find", "me", "a", "bar", "with", "a", "four", "star", "rating"]}
+{"tags": [0, 0, 0, 0, 0, 14, 16], "tokens": ["can", "you", "find", "me", "a", "beer", "garden"]}
+{"tags": [0, 0, 0, 0, 0, 14, 16], "tokens": ["can", "you", "find", "me", "a", "burger", "joint"]}
+{"tags": [0, 0, 0, 0, 0, 7, 8, 0, 10, 11, 11], "tokens": ["can", "you", "find", "me", "a", "burger", "king", "thats", "open", "right", "now"]}
+{"tags": [0, 0, 0, 0, 0, 3, 14, 0, 5, 6, 6, 6, 6], "tokens": ["can", "you", "find", "me", "a", "casual", "barbecue", "restaurant", "within", "thirty", "miles", "from", "here"]}
+{"tags": [0, 0, 0, 0, 0, 3, 4, 0, 0], "tokens": ["can", "you", "find", "me", "a", "casual", "place", "to", "eat"]}
+{"tags": [0, 0, 0, 0, 0, 9, 14, 0, 0, 5], "tokens": ["can", "you", "find", "me", "a", "cheap", "brazilian", "restaurant", "in", "millis"]}
+{"tags": [0, 0, 0, 0, 0, 7, 8, 5, 6, 6, 6], "tokens": ["can", "you", "find", "me", "a", "china", "palace", "close", "to", "my", "home"]}
+{"tags": [0, 0, 0, 0, 0, 14, 0], "tokens": ["can", "you", "find", "me", "a", "chinese", "restaurant"]}
+{"tags": [0, 0, 0, 0, 0, 3, 4, 0, 0, 5, 6, 0, 10, 11, 11], "tokens": ["can", "you", "find", "me", "a", "chjildren", "friendly", "restaurant", "in", "redding", "ca", "thats", "open", "until", "11pm"]}
+{"tags": [0, 0, 0, 0, 0, 14, 0, 0, 3, 4], "tokens": ["can", "you", "find", "me", "a", "coffee", "shop", "with", "internet", "access"]}
+{"tags": [0, 0, 0, 0, 0, 7, 8, 5], "tokens": ["can", "you", "find", "me", "a", "dairy", "queen", "nearby"]}
+{"tags": [0, 0, 0, 0, 0, 3, 4, 0, 0, 0, 0, 0, 0], "tokens": ["can", "you", "find", "me", "a", "drive", "thru", "since", "i", "am", "in", "a", "hurry"]}
+{"tags": [0, 0, 0, 0, 0, 14, 0, 0, 0, 0, 0, 1, 2], "tokens": ["can", "you", "find", "me", "a", "ethiopian", "place", "where", "the", "service", "is", "rated", "high"]}
+{"tags": [0, 0, 0, 0, 0, 9, 0, 14], "tokens": ["can", "you", "find", "me", "a", "fair", "priced", "diner"]}
+{"tags": [0, 0, 0, 0, 0, 1, 2, 0, 3, 4, 4, 5, 6, 6], "tokens": ["can", "you", "find", "me", "a", "five", "star", "place", "by", "the", "water", "in", "inman", "square"]}
+{"tags": [0, 0, 0, 0, 0, 1, 3, 4, 4, 4, 4], "tokens": ["can", "you", "find", "me", "a", "good", "place", "for", "a", "nice", "date"]}
+{"tags": [0, 0, 0, 0, 0, 14, 16, 0, 0, 5, 1, 2, 0, 0, 5, 0, 0, 3, 4], "tokens": ["can", "you", "find", "me", "a", "greek", "diner", "that", "has", "received", "high", "ratings", "on", "its", "service", "and", "has", "outdoor", "dining"]}
+{"tags": [0, 0, 0, 0, 0, 7, 5, 0, 0, 5], "tokens": ["can", "you", "find", "me", "a", "mcdonalds", "close", "to", "the", "airport"]}
+{"tags": [0, 0, 0, 0, 0, 14, 0, 0, 3, 4, 4], "tokens": ["can", "you", "find", "me", "a", "mexican", "restaurant", "with", "outdoor", "sitting", "area"]}
+{"tags": [0, 0, 0, 0, 0, 9, 0, 0, 0, 3, 4], "tokens": ["can", "you", "find", "me", "a", "moderately", "priced", "restaurant", "that", "serves", "wine"]}
+{"tags": [0, 0, 0, 0, 0, 14, 0, 5, 6, 6, 6, 6, 6, 6], "tokens": ["can", "you", "find", "me", "a", "pastry", "shop", "not", "more", "than", "5", "blocks", "from", "here"]}
+{"tags": [0, 0, 0, 0, 0, 0, 0, 7, 8, 8, 8, 0, 0, 3, 4, 4], "tokens": ["can", "you", "find", "me", "a", "place", "called", "asai", "fine", "japanese", "cuisine", "with", "a", "nice", "wine", "list"]}
+{"tags": [0, 0, 0, 0, 0, 0, 0, 10, 11, 11, 0, 5, 0, 3, 4], "tokens": ["can", "you", "find", "me", "a", "place", "thats", "open", "after", "midnight", "in", "abington", "with", "dinner", "theater"]}
+{"tags": [0, 0, 0, 0, 0, 0, 0, 3, 4, 4, 4, 0, 0, 12, 0, 10], "tokens": ["can", "you", "find", "me", "a", "place", "to", "dine", "at", "the", "bar", "for", "some", "tea", "for", "breakfast"]}
+{"tags": [0, 0, 0, 0, 0, 0, 0, 0], "tokens": ["can", "you", "find", "me", "a", "place", "to", "eat"]}
+{"tags": [0, 0, 0, 0, 0, 0, 0, 0, 5, 6], "tokens": ["can", "you", "find", "me", "a", "place", "to", "eat", "near", "here"]}
+{"tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 12, 5, 6, 6], "tokens": ["can", "you", "find", "me", "a", "place", "to", "eat", "some", "chips", "by", "the", "ocean"]}
+{"tags": [0, 0, 0, 0, 0, 0, 0, 0, 3, 4, 4, 4], "tokens": ["can", "you", "find", "me", "a", "place", "to", "get", "entertainment", "while", "i", "eat"]}
+{"tags": [0, 0, 0, 0, 0, 0, 0, 0, 14, 0], "tokens": ["can", "you", "find", "me", "a", "place", "to", "get", "mexican", "food"]}
+{"tags": [0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 9, 15, 0, 0, 0, 0, 0, 14, 0], "tokens": ["can", "you", "find", "me", "a", "place", "where", "the", "entrees", "are", "priced", "under", "10", "per", "person", "but", "still", "has", "good", "food"]}
+{"tags": [0, 0, 0, 0, 0, 0, 0, 3, 4, 0, 14], "tokens": ["can", "you", "find", "me", "a", "place", "with", "live", "music", "and", "seafood"]}
+{"tags": [0, 0, 0, 0, 0, 0], "tokens": ["can", "you", "find", "me", "a", "restaurant"]}
+{"tags": [0, 0, 0, 0, 0, 0, 0, 5, 6, 0, 0, 0, 3, 4], "tokens": ["can", "you", "find", "me", "a", "restaurant", "in", "my", "area", "in", "which", "i", "can", "smoke"]}
+{"tags": [0, 0, 0, 0, 0, 0, 5, 6, 6, 0, 0, 14, 12, 0, 0, 3, 4], "tokens": ["can", "you", "find", "me", "a", "restaurant", "in", "the", "area", "that", "serves", "chinese", "food", "and", "allows", "carry", "out"]}
+{"tags": [0, 0, 0, 0, 0, 0, 5, 6, 6], "tokens": ["can", "you", "find", "me", "a", "restaurant", "near", "the", "bay"]}
+{"tags": [0, 0, 0, 0, 0, 0, 5, 0, 0, 0, 3, 4], "tokens": ["can", "you", "find", "me", "a", "restaurant", "nearby", "that", "has", "a", "lunch", "special"]}
+{"tags": [0, 0, 0, 0, 0, 7, 0, 12, 10, 11, 11], "tokens": ["can", "you", "find", "me", "a", "restaurant", "serving", "toppings", "before", "10", "am"]}
+{"tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 4, 0, 0, 5, 6, 6, 6], "tokens": ["can", "you", "find", "me", "a", "restaurant", "that", "has", "a", "smoking", "section", "on", "the", "south", "side", "of", "town"]}
+{"tags": [0, 0, 0, 0, 0, 0, 0, 0, 3, 4, 0, 0, 12], "tokens": ["can", "you", "find", "me", "a", "restaurant", "that", "has", "happy", "hour", "and", "serves", "spaghetti"]}
+{"tags": [0, 0, 0, 0, 0, 0, 0, 0, 9, 0], "tokens": ["can", "you", "find", "me", "a", "restaurant", "that", "has", "low", "prices"]}
+{"tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 4, 4], "tokens": ["can", "you", "find", "me", "a", "restaurant", "that", "has", "one", "of", "those", "playrooms", "for", "kids"]}
+{"tags": [0, 0, 0, 0, 0, 0, 0, 0, 9], "tokens": ["can", "you", "find", "me", "a", "restaurant", "that", "is", "cheap"]}
+{"tags": [0, 0, 0, 0, 0, 0, 0, 0, 3, 4], "tokens": ["can", "you", "find", "me", "a", "restaurant", "that", "is", "family", "friendly"]}
+{"tags": [0, 0, 0, 0, 0, 0, 0, 0, 5, 6], "tokens": ["can", "you", "find", "me", "a", "restaurant", "that", "is", "near", "me"]}
+{"tags": [0, 0, 0, 0, 0, 0, 0, 0, 10, 11, 11, 11, 0, 10], "tokens": ["can", "you", "find", "me", "a", "restaurant", "that", "is", "open", "at", "6", "am", "for", "breakfast"]}
+{"tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 2, 0, 9, 0], "tokens": ["can", "you", "find", "me", "a", "restaurant", "that", "is", "rated", "at", "least", "3", "stars", "and", "low", "priced"]}
+{"tags": [0, 0, 0, 0, 0, 0, 0, 0, 12, 13, 13, 13], "tokens": ["can", "you", "find", "me", "a", "restaurant", "that", "serves", "new", "york", "style", "pizza"]}
+{"tags": [0, 0, 0, 0, 0, 0, 0, 0, 12, 13], "tokens": ["can", "you", "find", "me", "a", "restaurant", "that", "serves", "vegetarian", "meatloaf"]}
+{"tags": [0, 0, 0, 0, 0, 0, 0, 0, 3, 4], "tokens": ["can", "you", "find", "me", "a", "restaurant", "with", "a", "good", "view"]}
+{"tags": [0, 0, 0, 0, 0, 0, 0, 0, 12, 13], "tokens": ["can", "you", "find", "me", "a", "restaurant", "with", "a", "salad", "bar"]}
+{"tags": [0, 0, 0, 0, 0, 0, 0, 0, 3, 4, 5], "tokens": ["can", "you", "find", "me", "a", "restaurant", "with", "a", "smoking", "area", "nearby"]}
+{"tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 2, 2], "tokens": ["can", "you", "find", "me", "a", "restaurant", "with", "at", "least", "a", "few", "star", "rating"]}
+{"tags": [0, 0, 0, 0, 0, 0, 0, 3, 4, 0, 0, 12, 13], "tokens": ["can", "you", "find", "me", "a", "restaurant", "with", "outdoor", "dining", "that", "sells", "fruity", "drinks"]}
+{"tags": [0, 0, 0, 0, 0, 0, 0, 3, 4], "tokens": ["can", "you", "find", "me", "a", "restaurant", "with", "outside", "dining"]}
+{"tags": [0, 0, 0, 0, 0, 0, 0, 3, 4, 0, 0, 3, 0, 0], "tokens": ["can", "you", "find", "me", "a", "restaurant", "with", "valet", "parking", "that", "will", "impress", "my", "date"]}
+{"tags": [0, 0, 0, 0, 0, 14, 0, 0, 0, 12], "tokens": ["can", "you", "find", "me", "a", "seafood", "restaurant", "that", "serves", "crabs"]}
+{"tags": [0, 0, 0, 0, 0, 14, 0], "tokens": ["can", "you", "find", "me", "a", "vegetarian", "restaurant"]}
+{"tags": [0, 0, 0, 0, 0, 0, 0, 3, 4, 4, 4, 4], "tokens": ["can", "you", "find", "me", "an", "eatery", "that", "accepts", "american", "express", "credit", "cards"]}
+{"tags": [0, 0, 0, 0, 0, 14, 0, 5, 6, 6], "tokens": ["can", "you", "find", "me", "an", "italian", "restaurant", "within", "10", "miles"]}
+{"tags": [0, 0, 0, 0, 14, 0, 0, 0, 5, 6], "tokens": ["can", "you", "find", "me", "chinese", "food", "on", "the", "way", "home"]}
+{"tags": [0, 0, 0, 0, 0, 5, 6, 6], "tokens": ["can", "you", "find", "me", "restaurants", "in", "the", "area"]}
+{"tags": [0, 0, 0, 0, 0, 14, 0], "tokens": ["can", "you", "find", "me", "some", "chinese", "food"]}
+{"tags": [0, 0, 0, 0, 0, 1, 14, 0], "tokens": ["can", "you", "find", "me", "some", "delicious", "chinese", "food"]}
+{"tags": [0, 0, 0, 0, 0, 14, 0, 0, 0, 3], "tokens": ["can", "you", "find", "me", "some", "kosher", "food", "that", "is", "romantic"]}
+{"tags": [0, 0, 0, 0, 0, 0, 0, 1, 3, 4, 0, 0], "tokens": ["can", "you", "find", "me", "someplace", "with", "a", "good", "wine", "list", "this", "time"]}
+{"tags": [0, 0, 0, 0, 0, 0, 5, 0, 9, 15, 15], "tokens": ["can", "you", "find", "me", "somewhere", "in", "southborough", "thats", "not", "too", "expensive"]}
+{"tags": [0, 0, 0, 0, 0, 1, 14, 0, 5, 6], "tokens": ["can", "you", "find", "me", "the", "best", "chinese", "food", "in", "town"]}
+{"tags": [0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 12], "tokens": ["can", "you", "find", "me", "the", "best", "place", "to", "get", "a", "sub"]}
+{"tags": [0, 0, 0, 0, 0, 1, 0, 0, 0, 14], "tokens": ["can", "you", "find", "me", "the", "best", "place", "to", "get", "japanese"]}
