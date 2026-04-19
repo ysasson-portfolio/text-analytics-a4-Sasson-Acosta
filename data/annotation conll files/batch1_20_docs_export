@@ -1,0 +1,343 @@
+-DOCSTART- -X- O
+can -X- _ O
+you -X- _ O
+find -X- _ O
+me -X- _ O
+the -X- _ O
+closed -X- _ B-Hours
+burger -X- _ B-Restaurant_Name
+king -X- _ I-Restaurant_Name
+
+can -X- _ O
+you -X- _ O
+find -X- _ O
+me -X- _ O
+the -X- _ O
+closed -X- _ B-Hours
+burger -X- _ B-Restaurant_Name
+king -X- _ I-Restaurant_Name
+
+can -X- _ O
+you -X- _ O
+find -X- _ O
+me -X- _ O
+the -X- _ O
+closest -X- _ B-Location
+cheesecake -X- _ B-Restaurant_Name
+factory -X- _ I-Restaurant_Name
+
+can -X- _ O
+you -X- _ O
+find -X- _ O
+me -X- _ O
+the -X- _ O
+closest -X- _ B-Location
+cheesecake -X- _ B-Restaurant_Name
+factory -X- _ I-Restaurant_Name
+
+can -X- _ O
+you -X- _ O
+find -X- _ O
+me -X- _ O
+the -X- _ O
+closet -X- _ B-Location
+mc -X- _ B-Restaurant_Name
+donalds -X- _ I-Restaurant_Name
+
+can -X- _ O
+you -X- _ O
+find -X- _ O
+me -X- _ O
+the -X- _ O
+closet -X- _ B-Location
+mc -X- _ B-Restaurant_Name
+donalds -X- _ I-Restaurant_Name
+
+can -X- _ O
+you -X- _ O
+find -X- _ O
+me -X- _ O
+the -X- _ O
+coast -X- _ B-Restaurant_Name
+line -X- _ I-Restaurant_Name
+grill -X- _ I-Restaurant_Name
+nearby -X- _ B-Location
+with -X- _ O
+seating -X- _ B-Amenity
+at -X- _ I-Amenity
+the -X- _ I-Amenity
+bar -X- _ I-Amenity
+
+can -X- _ O
+you -X- _ O
+find -X- _ O
+me -X- _ O
+the -X- _ O
+coast -X- _ B-Restaurant_Name
+line -X- _ I-Restaurant_Name
+grill -X- _ I-Restaurant_Name
+nearby -X- _ B-Location
+with -X- _ O
+seating -X- _ B-Amenity
+at -X- _ I-Amenity
+the -X- _ I-Amenity
+bar -X- _ I-Amenity
+
+can -X- _ O
+you -X- _ O
+find -X- _ O
+me -X- _ O
+the -X- _ O
+location -X- _ O
+of -X- _ O
+daisy -X- _ B-Restaurant_Name
+gs -X- _ I-Restaurant_Name
+it -X- _ O
+has -X- _ O
+hotel -X- _ B-Amenity
+dining -X- _ I-Amenity
+
+can -X- _ O
+you -X- _ O
+find -X- _ O
+me -X- _ O
+the -X- _ O
+location -X- _ O
+of -X- _ O
+daisy -X- _ B-Restaurant_Name
+gs -X- _ I-Restaurant_Name
+it -X- _ O
+has -X- _ O
+hotel -X- _ B-Amenity
+dining -X- _ I-Amenity
+
+can -X- _ O
+you -X- _ O
+find -X- _ O
+me -X- _ O
+the -X- _ O
+nearest -X- _ B-Location
+mcdonalds -X- _ B-Restaurant_Name
+
+can -X- _ O
+you -X- _ O
+find -X- _ O
+me -X- _ O
+the -X- _ O
+nearest -X- _ B-Location
+mcdonalds -X- _ B-Restaurant_Name
+
+can -X- _ O
+you -X- _ O
+find -X- _ O
+me -X- _ O
+the -X- _ O
+nearest -X- _ B-Location
+pizzeria -X- _ B-Cuisine
+
+can -X- _ O
+you -X- _ O
+find -X- _ O
+me -X- _ O
+the -X- _ O
+nearest -X- _ B-Location
+pizzeria -X- _ B-Dish
+
+can -X- _ O
+you -X- _ O
+find -X- _ O
+me -X- _ O
+the -X- _ O
+nicest -X- _ B-Rating
+restaurant -X- _ O
+for -X- _ O
+italian -X- _ B-Cuisine
+food -X- _ I-Cuisine
+
+can -X- _ O
+you -X- _ O
+find -X- _ O
+me -X- _ O
+the -X- _ O
+nicest -X- _ B-Rating
+restaurant -X- _ O
+for -X- _ O
+italian -X- _ B-Cuisine
+food -X- _ I-Cuisine
+
+can -X- _ O
+you -X- _ O
+find -X- _ O
+me -X- _ O
+the -X- _ O
+phone -X- _ O
+number -X- _ O
+for -X- _ O
+ihop -X- _ B-Restaurant_Name
+on -X- _ O
+tilburg -X- _ B-Location
+street -X- _ I-Location
+
+can -X- _ O
+you -X- _ O
+find -X- _ O
+me -X- _ O
+the -X- _ O
+phone -X- _ O
+number -X- _ O
+for -X- _ O
+ihop -X- _ B-Restaurant_Name
+on -X- _ O
+tilburg -X- _ B-Location
+street -X- _ I-Location
+
+can -X- _ O
+you -X- _ O
+find -X- _ O
+me -X- _ O
+the -X- _ O
+restaurant -X- _ O
+with -X- _ O
+the -X- _ O
+best -X- _ B-Rating
+reviews -X- _ I-Rating
+
+can -X- _ O
+you -X- _ O
+find -X- _ O
+me -X- _ O
+the -X- _ O
+restaurant -X- _ O
+with -X- _ O
+the -X- _ O
+best -X- _ B-Rating
+reviews -X- _ I-Rating
+
+check -X- _ O
+for -X- _ O
+cheap -X- _ B-Price
+vegan -X- _ B-Amenity
+diners -X- _ O
+in -X- _ O
+the -X- _ O
+theater -X- _ B-Location
+district -X- _ I-Location
+
+check -X- _ O
+for -X- _ O
+cheap -X- _ B-Price
+vegan -X- _ B-Cuisine
+diners -X- _ O
+in -X- _ B-Location
+the -X- _ I-Location
+theater -X- _ I-Location
+district -X- _ I-Location
+
+check -X- _ O
+to -X- _ O
+see -X- _ O
+if -X- _ O
+i -X- _ O
+can -X- _ O
+get -X- _ O
+a -X- _ O
+reservation -X- _ B-Amenity
+now -X- _ B-Hours
+at -X- _ O
+that -X- _ O
+place -X- _ O
+you -X- _ O
+booked -X- _ O
+me -X- _ O
+last -X- _ O
+wednesday -X- _ O
+
+check -X- _ O
+to -X- _ O
+see -X- _ O
+if -X- _ O
+i -X- _ O
+can -X- _ O
+get -X- _ O
+a -X- _ O
+reservation -X- _ B-Amenity
+now -X- _ B-Hours
+at -X- _ O
+that -X- _ O
+place -X- _ O
+you -X- _ O
+booked -X- _ O
+me -X- _ O
+last -X- _ O
+wednesday -X- _ O
+
+check -X- _ O
+whether -X- _ O
+there -X- _ O
+are -X- _ O
+any -X- _ O
+restaurants -X- _ O
+where -X- _ O
+pets -X- _ B-Amenity
+are -X- _ I-Amenity
+allowed -X- _ I-Amenity
+
+check -X- _ O
+whether -X- _ O
+there -X- _ O
+are -X- _ O
+any -X- _ O
+restaurants -X- _ O
+where -X- _ O
+pets -X- _ B-Amenity
+are -X- _ I-Amenity
+allowed -X- _ I-Amenity
+
+chilis -X- _ B-Restaurant_Name
+
+chilis -X- _ B-Restaurant_Name
+
+chinese -X- _ B-Cuisine
+
+chinese -X- _ B-Cuisine
+
+chinese -X- _ B-Cuisine
+buffet -X- _ B-Amenity
+reviews -X- _ B-Rating
+
+chinese -X- _ B-Cuisine
+buffet -X- _ B-Amenity
+reviews -X- _ B-Rating
+
+chinese -X- _ B-Cuisine
+buffet -X- _ B-Amenity
+style -X- _ O
+
+chinese -X- _ B-Cuisine
+buffet -X- _ B-Amenity
+style -X- _ O
+
+chinese -X- _ B-Cuisine
+food -X- _ O
+joint -X- _ O
+
+chinese -X- _ B-Cuisine
+food -X- _ O
+joint -X- _ O
+
+chinese -X- _ B-Cuisine
+foooooood -X- _ O
+
+chinese -X- _ B-Cuisine
+foooooood -X- _ O
+
+chinese -X- _ B-Cuisine
+or -X- _ O
+japanese -X- _ B-Cuisine
+restaurant -X- _ O
+
+chinese -X- _ B-Cuisine
+or -X- _ O
+japanese -X- _ B-Cuisine
+restaurant -X- _ O
+
