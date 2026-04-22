@@ -58,13 +58,13 @@ This assignment revolves around building models that can help identify the entit
 
 - `notebooks/custom\_ner\_models.ipynb` - Training, Testing, Fine Tuning, and Re-Testing the custom spacy models using our own annotations and samples from the dataset
 
-- `notebooks/iaa\_batch1.ipynb` - IAA Calculations for the first batch of annotations Brandon and Yarden both did separately
+- `notebooks/iaa_batch1.ipynb` - IAA Calculations for the first batch of annotations Brandon and Yarden both did separately
 
-- `notebooks/iaa\_batch2.ipynb` - IAA Calculations for the second batch of annotations Brandon and Yarden both did separately
+- `notebooks/iaa_batch2.ipynb` - IAA Calculations for the second batch of annotations Brandon and Yarden both did separately
 
-- `docs/AI\_usage\_log.md` - AI interaction documentation
+- `docs/AI Usage Logs/AI_usage_log.md` - AI interaction documentation
 
-- `docs/reflection.md` - Lessons learned
+- `docs/reflections/reflection.md` - Lessons learned
 
 - `models` - Folder contains the models for each of the groups
 
