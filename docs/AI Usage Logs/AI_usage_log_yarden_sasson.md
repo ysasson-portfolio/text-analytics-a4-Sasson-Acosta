@@ -307,3 +307,13 @@ How to document AI usage transparently and professionally for academic work. I a
 
 **Any AI errors found?**  
 One of the topics was listed as an interpretation explanation, but it was more of a concept explanation in order to see if there is a way to improve the results of the model. 
+
+---
+
+**Reflection**
+
+In the past, I have felt hesitant when it comes to using AI with these assignments. This is because I felt that it would take away from my learning at I would become dependent on it in order to achieve the task. This time after speaking with Professor Vo, I felt more comfortable using it in order to help my achieve simple tasks or get around a roadblock that I was hitting during the assignment or development of the code necessary. I began using it as a tool to improve my understanding of the task at hand and to generate code that I have never written before (because I have not worked with JSON or certain functions within the NLP library). I have noticed that the quality of the work that I produced along with the explanations grew significantly. 
+
+Although there were many positives that came with me using AI throughout the assignment, there are still negatives that come with it as well. When using the AI, there were times where it had very limited context and that it affected the responses it gave which could have been incorrect. Another downside of using AI is that sometimes the code would function 100% correctly. The bugs in the code were later resolved by having to go back and add more context/prompts to the interaction. 
+
+It is very important to have the human running the show when using AI while having AI support the overall needs of the process. Without human verification there is no way to know if the responses being generated are relevant to the overall problem that we are trying to solve. 
